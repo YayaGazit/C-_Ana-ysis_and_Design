@@ -1,0 +1,714 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{29524D38-F0C1-4415-93B0-30F003299972}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Group_27</RootNamespace>
+    <AssemblyName>Group_27</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddEmployee.Designer.cs">
+      <DependentUpon>AddEmployee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddProduct.Designer.cs">
+      <DependentUpon>AddProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddSupplier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddSupplier.Designer.cs">
+      <DependentUpon>AddSupplier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Add_Customer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add_Customer.Designer.cs">
+      <DependentUpon>Add_Customer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Add_Order.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add_Order.Designer.cs">
+      <DependentUpon>Add_Order.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Add_productionProcess.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add_productionProcess.Designer.cs">
+      <DependentUpon>Add_productionProcess.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AllCustomers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AllCustomers.Designer.cs">
+      <DependentUpon>AllCustomers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AllEmployees.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AllEmployees.Designer.cs">
+      <DependentUpon>AllEmployees.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AllOrders.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AllOrders.Designer.cs">
+      <DependentUpon>AllOrders.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AllProducts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AllProducts.Designer.cs">
+      <DependentUpon>AllProducts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AllSuppliers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AllSuppliers.Designer.cs">
+      <DependentUpon>AllSuppliers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Circle_Product.cs" />
+    <Compile Include="CreateOrderFromSupplier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CreateOrderFromSupplier.Designer.cs">
+      <DependentUpon>CreateOrderFromSupplier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Crud_Customer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Crud_Customer.Designer.cs">
+      <DependentUpon>Crud_Customer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Crud_Employee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Crud_Employee.Designer.cs">
+      <DependentUpon>Crud_Employee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Crud_Product.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Crud_Product.Designer.cs">
+      <DependentUpon>Crud_Product.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Crud_Supplier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Crud_Supplier.Designer.cs">
+      <DependentUpon>Crud_Supplier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Customer.cs" />
+    <Compile Include="Employee.cs" />
+    <Compile Include="Gender.cs" />
+    <Compile Include="Global.cs" />
+    <Compile Include="HomePageCustomerService.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HomePageCustomerService.Designer.cs">
+      <DependentUpon>HomePageCustomerService.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HomePageHR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HomePageHR.Designer.cs">
+      <DependentUpon>HomePageHR.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HomePageLogistic.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HomePageLogistic.Designer.cs">
+      <DependentUpon>HomePageLogistic.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HomePageManagers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HomePageManagers.Designer.cs">
+      <DependentUpon>HomePageManagers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HomePageProduction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HomePageProduction.Designer.cs">
+      <DependentUpon>HomePageProduction.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HomePageSales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HomePageSales.Designer.cs">
+      <DependentUpon>HomePageSales.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HomePageStoreKeeper.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HomePageStoreKeeper.Designer.cs">
+      <DependentUpon>HomePageStoreKeeper.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HomePage_Customers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HomePage_Customers.Designer.cs">
+      <DependentUpon>HomePage_Customers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IntactnessStatus.cs" />
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MyOrders.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MyOrders.Designer.cs">
+      <DependentUpon>MyOrders.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Order.cs" />
+    <Compile Include="OrderFromSupplier.cs" />
+    <Compile Include="OrderManagment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OrderManagment.Designer.cs">
+      <DependentUpon>OrderManagment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OrderStatus.cs" />
+    <Compile Include="Order_Tracking.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Order_Tracking.Designer.cs">
+      <DependentUpon>Order_Tracking.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Priorities.cs" />
+    <Compile Include="Process.cs" />
+    <Compile Include="Product.cs" />
+    <Compile Include="ProductionProcess.cs" />
+    <Compile Include="ProductionProcessManagment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProductionProcessManagment.Designer.cs">
+      <DependentUpon>ProductionProcessManagment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ReceivedFromSupplier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReceivedFromSupplier.Designer.cs">
+      <DependentUpon>ReceivedFromSupplier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Role.cs" />
+    <Compile Include="SAD_27DataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SAD_27DataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="SAD_27DataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SAD_27DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="SAD_27DataSet10.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SAD_27DataSet10.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="SAD_27DataSet11.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SAD_27DataSet11.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="SAD_27DataSet12.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SAD_27DataSet12.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="SAD_27DataSet13.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SAD_27DataSet13.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="SAD_27DataSet14.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SAD_27DataSet14.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="SAD_27DataSet15.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SAD_27DataSet15.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="SAD_27DataSet16.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SAD_27DataSet16.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="SAD_27DataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SAD_27DataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="SAD_27DataSet3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SAD_27DataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="SAD_27DataSet4.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SAD_27DataSet4.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="SAD_27DataSet5.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SAD_27DataSet5.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="SAD_27DataSet6.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SAD_27DataSet6.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="SAD_27DataSet7.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SAD_27DataSet7.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="SAD_27DataSet8.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SAD_27DataSet8.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="SAD_27DataSet9.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SAD_27DataSet9.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="setTimeForWork.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="setTimeForWork.Designer.cs">
+      <DependentUpon>setTimeForWork.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ShowSupplier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShowSupplier.Designer.cs">
+      <DependentUpon>ShowSupplier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Show_Customer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Show_Customer.Designer.cs">
+      <DependentUpon>Show_Customer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Show_Employee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Show_Employee.Designer.cs">
+      <DependentUpon>Show_Employee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Show_Order.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Show_Order.Designer.cs">
+      <DependentUpon>Show_Order.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Show_Product.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Show_Product.Designer.cs">
+      <DependentUpon>Show_Product.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SortProdutionProcess.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SortProdutionProcess.Designer.cs">
+      <DependentUpon>SortProdutionProcess.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SQL_CON.cs" />
+    <Compile Include="StandardTime.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StandardTime.Designer.cs">
+      <DependentUpon>StandardTime.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Step.cs" />
+    <Compile Include="StepInProgress.cs" />
+    <Compile Include="StepName.cs" />
+    <Compile Include="Supplier.cs" />
+    <Compile Include="SupplierStatus.cs" />
+    <EmbeddedResource Include="AddEmployee.resx">
+      <DependentUpon>AddEmployee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddProduct.resx">
+      <DependentUpon>AddProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddSupplier.resx">
+      <DependentUpon>AddSupplier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Add_Customer.resx">
+      <DependentUpon>Add_Customer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Add_Order.resx">
+      <DependentUpon>Add_Order.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Add_productionProcess.resx">
+      <DependentUpon>Add_productionProcess.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AllCustomers.resx">
+      <DependentUpon>AllCustomers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AllEmployees.resx">
+      <DependentUpon>AllEmployees.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AllOrders.resx">
+      <DependentUpon>AllOrders.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AllProducts.resx">
+      <DependentUpon>AllProducts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AllSuppliers.resx">
+      <DependentUpon>AllSuppliers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CreateOrderFromSupplier.resx">
+      <DependentUpon>CreateOrderFromSupplier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Crud_Customer.resx">
+      <DependentUpon>Crud_Customer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Crud_Employee.resx">
+      <DependentUpon>Crud_Employee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Crud_Product.resx">
+      <DependentUpon>Crud_Product.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Crud_Supplier.resx">
+      <DependentUpon>Crud_Supplier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HomePageCustomerService.resx">
+      <DependentUpon>HomePageCustomerService.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HomePageHR.resx">
+      <DependentUpon>HomePageHR.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HomePageLogistic.resx">
+      <DependentUpon>HomePageLogistic.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HomePageManagers.resx">
+      <DependentUpon>HomePageManagers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HomePageProduction.resx">
+      <DependentUpon>HomePageProduction.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HomePageSales.resx">
+      <DependentUpon>HomePageSales.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HomePageStoreKeeper.resx">
+      <DependentUpon>HomePageStoreKeeper.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HomePage_Customers.resx">
+      <DependentUpon>HomePage_Customers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MyOrders.resx">
+      <DependentUpon>MyOrders.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OrderManagment.resx">
+      <DependentUpon>OrderManagment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Order_Tracking.resx">
+      <DependentUpon>Order_Tracking.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProductionProcessManagment.resx">
+      <DependentUpon>ProductionProcessManagment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="ReceivedFromSupplier.resx">
+      <DependentUpon>ReceivedFromSupplier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="setTimeForWork.resx">
+      <DependentUpon>setTimeForWork.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShowSupplier.resx">
+      <DependentUpon>ShowSupplier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Show_Customer.resx">
+      <DependentUpon>Show_Customer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Show_Employee.resx">
+      <DependentUpon>Show_Employee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Show_Order.resx">
+      <DependentUpon>Show_Order.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Show_Product.resx">
+      <DependentUpon>Show_Product.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SortProdutionProcess.resx">
+      <DependentUpon>SortProdutionProcess.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StandardTime.resx">
+      <DependentUpon>StandardTime.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="SAD_27DataSet.xsc">
+      <DependentUpon>SAD_27DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="SAD_27DataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SAD_27DataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="SAD_27DataSet.xss">
+      <DependentUpon>SAD_27DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="SAD_27DataSet1.xsc">
+      <DependentUpon>SAD_27DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="SAD_27DataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SAD_27DataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="SAD_27DataSet1.xss">
+      <DependentUpon>SAD_27DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="SAD_27DataSet10.xsc">
+      <DependentUpon>SAD_27DataSet10.xsd</DependentUpon>
+    </None>
+    <None Include="SAD_27DataSet10.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SAD_27DataSet10.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="SAD_27DataSet10.xss">
+      <DependentUpon>SAD_27DataSet10.xsd</DependentUpon>
+    </None>
+    <None Include="SAD_27DataSet11.xsc">
+      <DependentUpon>SAD_27DataSet11.xsd</DependentUpon>
+    </None>
+    <None Include="SAD_27DataSet11.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SAD_27DataSet11.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="SAD_27DataSet11.xss">
+      <DependentUpon>SAD_27DataSet11.xsd</DependentUpon>
+    </None>
+    <None Include="SAD_27DataSet12.xsc">
+      <DependentUpon>SAD_27DataSet12.xsd</DependentUpon>
+    </None>
+    <None Include="SAD_27DataSet12.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SAD_27DataSet12.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="SAD_27DataSet12.xss">
+      <DependentUpon>SAD_27DataSet12.xsd</DependentUpon>
+    </None>
+    <None Include="SAD_27DataSet13.xsc">
+      <DependentUpon>SAD_27DataSet13.xsd</DependentUpon>
+    </None>
+    <None Include="SAD_27DataSet13.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SAD_27DataSet13.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="SAD_27DataSet13.xss">
+      <DependentUpon>SAD_27DataSet13.xsd</DependentUpon>
+    </None>
+    <None Include="SAD_27DataSet14.xsc">
+      <DependentUpon>SAD_27DataSet14.xsd</DependentUpon>
+    </None>
+    <None Include="SAD_27DataSet14.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SAD_27DataSet14.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="SAD_27DataSet14.xss">
+      <DependentUpon>SAD_27DataSet14.xsd</DependentUpon>
+    </None>
+    <None Include="SAD_27DataSet15.xsc">
+      <DependentUpon>SAD_27DataSet15.xsd</DependentUpon>
+    </None>
+    <None Include="SAD_27DataSet15.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SAD_27DataSet15.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="SAD_27DataSet15.xss">
+      <DependentUpon>SAD_27DataSet15.xsd</DependentUpon>
+    </None>
+    <None Include="SAD_27DataSet16.xsc">
+      <DependentUpon>SAD_27DataSet16.xsd</DependentUpon>
+    </None>
+    <None Include="SAD_27DataSet16.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SAD_27DataSet16.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="SAD_27DataSet16.xss">
+      <DependentUpon>SAD_27DataSet16.xsd</DependentUpon>
+    </None>
+    <None Include="SAD_27DataSet2.xsc">
+      <DependentUpon>SAD_27DataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="SAD_27DataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SAD_27DataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="SAD_27DataSet2.xss">
+      <DependentUpon>SAD_27DataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="SAD_27DataSet3.xsc">
+      <DependentUpon>SAD_27DataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="SAD_27DataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SAD_27DataSet3.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="SAD_27DataSet3.xss">
+      <DependentUpon>SAD_27DataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="SAD_27DataSet4.xsc">
+      <DependentUpon>SAD_27DataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="SAD_27DataSet4.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SAD_27DataSet4.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="SAD_27DataSet4.xss">
+      <DependentUpon>SAD_27DataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="SAD_27DataSet5.xsc">
+      <DependentUpon>SAD_27DataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="SAD_27DataSet5.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SAD_27DataSet5.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="SAD_27DataSet5.xss">
+      <DependentUpon>SAD_27DataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="SAD_27DataSet6.xsc">
+      <DependentUpon>SAD_27DataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="SAD_27DataSet6.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SAD_27DataSet6.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="SAD_27DataSet6.xss">
+      <DependentUpon>SAD_27DataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="SAD_27DataSet7.xsc">
+      <DependentUpon>SAD_27DataSet7.xsd</DependentUpon>
+    </None>
+    <None Include="SAD_27DataSet7.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SAD_27DataSet7.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="SAD_27DataSet7.xss">
+      <DependentUpon>SAD_27DataSet7.xsd</DependentUpon>
+    </None>
+    <None Include="SAD_27DataSet8.xsc">
+      <DependentUpon>SAD_27DataSet8.xsd</DependentUpon>
+    </None>
+    <None Include="SAD_27DataSet8.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SAD_27DataSet8.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="SAD_27DataSet8.xss">
+      <DependentUpon>SAD_27DataSet8.xsd</DependentUpon>
+    </None>
+    <None Include="SAD_27DataSet9.xsc">
+      <DependentUpon>SAD_27DataSet9.xsd</DependentUpon>
+    </None>
+    <None Include="SAD_27DataSet9.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SAD_27DataSet9.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="SAD_27DataSet9.xss">
+      <DependentUpon>SAD_27DataSet9.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bbb.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\רקע לטופס.jfif" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

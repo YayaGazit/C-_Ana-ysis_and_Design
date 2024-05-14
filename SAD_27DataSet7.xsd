@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="SAD_27DataSet7" targetNamespace="http://tempuri.org/SAD_27DataSet7.xsd" xmlns:mstns="http://tempuri.org/SAD_27DataSet7.xsd" xmlns="http://tempuri.org/SAD_27DataSet7.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="SAD_27ConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="SAD_27ConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.Group_27.Properties.Settings.GlobalReference.Default.SAD_27ConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="ViewCustomerOrdersTableAdapter" GeneratorDataComponentClassName="ViewCustomerOrdersTableAdapter" Name="ViewCustomerOrders" UserDataComponentName="ViewCustomerOrdersTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="SAD_27ConnectionString (Settings)" DbObjectName="SAD_27.dbo.ViewCustomerOrders" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT OrderId, ReceivedDate, DeadLine, Requirements, OrderStatus, OrderPriority, StartPreparationDate, ExpectedProfit, IsArchived, CustomerId FROM dbo.ViewCustomerOrders</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="OrderId" DataSetColumn="OrderId" />
+              <Mapping SourceColumn="ReceivedDate" DataSetColumn="ReceivedDate" />
+              <Mapping SourceColumn="DeadLine" DataSetColumn="DeadLine" />
+              <Mapping SourceColumn="Requirements" DataSetColumn="Requirements" />
+              <Mapping SourceColumn="OrderStatus" DataSetColumn="OrderStatus" />
+              <Mapping SourceColumn="OrderPriority" DataSetColumn="OrderPriority" />
+              <Mapping SourceColumn="StartPreparationDate" DataSetColumn="StartPreparationDate" />
+              <Mapping SourceColumn="ExpectedProfit" DataSetColumn="ExpectedProfit" />
+              <Mapping SourceColumn="IsArchived" DataSetColumn="IsArchived" />
+              <Mapping SourceColumn="CustomerId" DataSetColumn="CustomerId" />
+            </Mappings>
+            <Sources>
+              <DbSource ConnectionRef="SAD_27ConnectionString (Settings)" DbObjectName="SAD_27.dbo.ViewCustomerOrders" DbObjectType="View" FillMethodModifier="Public" FillMethodName="FillBy" GenerateMethods="Fill" GenerateShortCommands="true" GeneratorSourceName="FillBy" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetDataBy" UserSourceName="FillBy">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT OrderId, ReceivedDate, DeadLine, Requirements, OrderStatus, OrderPriority, StartPreparationDate, ExpectedProfit, IsArchived, CustomerId
+ FROM dbo.ViewCustomerOrders
+where customerid = 111</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </Sources>
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="SAD_27DataSet7" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="SAD_27DataSet7" msprop:Generator_UserDSName="SAD_27DataSet7">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="ViewCustomerOrders" msprop:Generator_TableClassName="ViewCustomerOrdersDataTable" msprop:Generator_TableVarName="tableViewCustomerOrders" msprop:Generator_RowChangedName="ViewCustomerOrdersRowChanged" msprop:Generator_TablePropName="ViewCustomerOrders" msprop:Generator_RowDeletingName="ViewCustomerOrdersRowDeleting" msprop:Generator_RowChangingName="ViewCustomerOrdersRowChanging" msprop:Generator_RowEvHandlerName="ViewCustomerOrdersRowChangeEventHandler" msprop:Generator_RowDeletedName="ViewCustomerOrdersRowDeleted" msprop:Generator_RowClassName="ViewCustomerOrdersRow" msprop:Generator_UserTableName="ViewCustomerOrders" msprop:Generator_RowEvArgName="ViewCustomerOrdersRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="OrderId" msprop:Generator_ColumnVarNameInTable="columnOrderId" msprop:Generator_ColumnPropNameInRow="OrderId" msprop:Generator_ColumnPropNameInTable="OrderIdColumn" msprop:Generator_UserColumnName="OrderId">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="ReceivedDate" msprop:Generator_ColumnVarNameInTable="columnReceivedDate" msprop:Generator_ColumnPropNameInRow="ReceivedDate" msprop:Generator_ColumnPropNameInTable="ReceivedDateColumn" msprop:Generator_UserColumnName="ReceivedDate" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="DeadLine" msprop:Generator_ColumnVarNameInTable="columnDeadLine" msprop:Generator_ColumnPropNameInRow="DeadLine" msprop:Generator_ColumnPropNameInTable="DeadLineColumn" msprop:Generator_UserColumnName="DeadLine" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="Requirements" msprop:Generator_ColumnVarNameInTable="columnRequirements" msprop:Generator_ColumnPropNameInRow="Requirements" msprop:Generator_ColumnPropNameInTable="RequirementsColumn" msprop:Generator_UserColumnName="Requirements" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="OrderStatus" msprop:Generator_ColumnVarNameInTable="columnOrderStatus" msprop:Generator_ColumnPropNameInRow="OrderStatus" msprop:Generator_ColumnPropNameInTable="OrderStatusColumn" msprop:Generator_UserColumnName="OrderStatus" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="OrderPriority" msprop:Generator_ColumnVarNameInTable="columnOrderPriority" msprop:Generator_ColumnPropNameInRow="OrderPriority" msprop:Generator_ColumnPropNameInTable="OrderPriorityColumn" msprop:Generator_UserColumnName="OrderPriority" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="StartPreparationDate" msprop:Generator_ColumnVarNameInTable="columnStartPreparationDate" msprop:Generator_ColumnPropNameInRow="StartPreparationDate" msprop:Generator_ColumnPropNameInTable="StartPreparationDateColumn" msprop:Generator_UserColumnName="StartPreparationDate" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="ExpectedProfit" msprop:Generator_ColumnVarNameInTable="columnExpectedProfit" msprop:Generator_ColumnPropNameInRow="ExpectedProfit" msprop:Generator_ColumnPropNameInTable="ExpectedProfitColumn" msprop:Generator_UserColumnName="ExpectedProfit" type="xs:decimal" minOccurs="0" />
+              <xs:element name="IsArchived" msprop:Generator_ColumnVarNameInTable="columnIsArchived" msprop:Generator_ColumnPropNameInRow="IsArchived" msprop:Generator_ColumnPropNameInTable="IsArchivedColumn" msprop:Generator_UserColumnName="IsArchived" type="xs:boolean" minOccurs="0" />
+              <xs:element name="CustomerId" msprop:Generator_ColumnVarNameInTable="columnCustomerId" msprop:Generator_ColumnPropNameInRow="CustomerId" msprop:Generator_ColumnPropNameInTable="CustomerIdColumn" msprop:Generator_UserColumnName="CustomerId">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

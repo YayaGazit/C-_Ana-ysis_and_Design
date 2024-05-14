@@ -1,0 +1,643 @@
+C:\Users\yarinmor\source\repos\Group_27\Group_27\obj\Debug\Group_27.csprojResolveAssemblyReference.cache
+C:\Users\yarinmor\source\repos\Group_27\Group_27\obj\Debug\Group_27.AddEmployee.resources
+C:\Users\yarinmor\source\repos\Group_27\Group_27\obj\Debug\Group_27.Properties.Resources.resources
+C:\Users\yarinmor\source\repos\Group_27\Group_27\obj\Debug\Group_27.csproj.GenerateResource.Cache
+C:\Users\yarinmor\source\repos\Group_27\Group_27\obj\Debug\Group_27.csproj.CoreCompileInputs.cache
+C:\Users\yarinmor\source\repos\Group_27\Group_27\bin\Debug\Group_27.exe.config
+C:\Users\yarinmor\source\repos\Group_27\Group_27\bin\Debug\Group_27.exe
+C:\Users\yarinmor\source\repos\Group_27\Group_27\bin\Debug\Group_27.pdb
+C:\Users\yarinmor\source\repos\Group_27\Group_27\obj\Debug\Group_27.exe
+C:\Users\yarinmor\source\repos\Group_27\Group_27\obj\Debug\Group_27.pdb
+C:\Users\yairgaz\Downloads\Group_27 (1)\Group_27\bin\Debug\Group_27.exe.config
+C:\Users\yairgaz\Downloads\Group_27 (1)\Group_27\bin\Debug\Group_27.exe
+C:\Users\yairgaz\Downloads\Group_27 (1)\Group_27\bin\Debug\Group_27.pdb
+C:\Users\yairgaz\Downloads\Group_27 (1)\Group_27\obj\Debug\Group_27.csprojResolveAssemblyReference.cache
+C:\Users\yairgaz\Downloads\Group_27 (1)\Group_27\obj\Debug\Group_27.AddEmployee.resources
+C:\Users\yairgaz\Downloads\Group_27 (1)\Group_27\obj\Debug\Group_27.Properties.Resources.resources
+C:\Users\yairgaz\Downloads\Group_27 (1)\Group_27\obj\Debug\Group_27.csproj.GenerateResource.Cache
+C:\Users\yairgaz\Downloads\Group_27 (1)\Group_27\obj\Debug\Group_27.csproj.CoreCompileInputs.cache
+C:\Users\yairgaz\Downloads\Group_27 (1)\Group_27\obj\Debug\Group_27.exe
+C:\Users\yairgaz\Downloads\Group_27 (1)\Group_27\obj\Debug\Group_27.pdb
+C:\Users\yairgaz\Downloads\Group_27 (1)\Group_27\obj\Debug\Group_27.CRUD_Employees.resources
+C:\Users\yairgaz\Downloads\Group_27 (1)\Group_27\obj\Debug\Group_27.Find_Employee.resources
+C:\Users\yairgaz\Downloads\Group_27 (1)\Group_27\obj\Debug\Group_27.Update_Employee.resources
+C:\Users\talshach\Desktop\Group_27 (1)\Group_27\obj\Debug\Group_27.csprojResolveAssemblyReference.cache
+C:\Users\talshach\Desktop\Group_27 (1)\Group_27\obj\Debug\Group_27.AddEmployee.resources
+C:\Users\talshach\Desktop\Group_27 (1)\Group_27\obj\Debug\Group_27.Properties.Resources.resources
+C:\Users\talshach\Desktop\Group_27 (1)\Group_27\obj\Debug\Group_27.Show_Employee.resources
+C:\Users\talshach\Desktop\Group_27 (1)\Group_27\obj\Debug\Group_27.csproj.GenerateResource.Cache
+C:\Users\talshach\Desktop\Group_27 (1)\Group_27\obj\Debug\Group_27.csproj.CoreCompileInputs.cache
+C:\Users\talshach\Desktop\Group_27 (1)\Group_27\obj\Debug\Group_27.exe
+C:\Users\talshach\Desktop\Group_27 (1)\Group_27\obj\Debug\Group_27.pdb
+C:\Users\talshach\Desktop\Group_27 (1)\Group_27\obj\Debug\Group_27.Crud_Employee.resources
+C:\Users\talshach\Desktop\Group_27 (1)\Group_27\bin\Debug\Group_27.exe.config
+C:\Users\talshach\Desktop\Group_27 (1)\Group_27\bin\Debug\Group_27.exe
+C:\Users\talshach\Desktop\Group_27 (1)\Group_27\bin\Debug\Group_27.pdb
+C:\Users\yarinmor\Downloads\Group_27\Group_27\Group_27 (1)\Group_27\bin\Debug\Group_27.exe.config
+C:\Users\yarinmor\Downloads\Group_27\Group_27\Group_27 (1)\Group_27\bin\Debug\Group_27.exe
+C:\Users\yarinmor\Downloads\Group_27\Group_27\Group_27 (1)\Group_27\bin\Debug\Group_27.pdb
+C:\Users\yarinmor\Downloads\Group_27\Group_27\Group_27 (1)\Group_27\obj\Debug\Group_27.csprojResolveAssemblyReference.cache
+C:\Users\yarinmor\Downloads\Group_27\Group_27\Group_27 (1)\Group_27\obj\Debug\Group_27.AddEmployee.resources
+C:\Users\yarinmor\Downloads\Group_27\Group_27\Group_27 (1)\Group_27\obj\Debug\Group_27.Crud_Employee.resources
+C:\Users\yarinmor\Downloads\Group_27\Group_27\Group_27 (1)\Group_27\obj\Debug\Group_27.Properties.Resources.resources
+C:\Users\yarinmor\Downloads\Group_27\Group_27\Group_27 (1)\Group_27\obj\Debug\Group_27.Show_Employee.resources
+C:\Users\yarinmor\Downloads\Group_27\Group_27\Group_27 (1)\Group_27\obj\Debug\Group_27.csproj.GenerateResource.Cache
+C:\Users\yarinmor\Downloads\Group_27\Group_27\Group_27 (1)\Group_27\obj\Debug\Group_27.csproj.CoreCompileInputs.cache
+C:\Users\yarinmor\Downloads\Group_27\Group_27\Group_27 (1)\Group_27\obj\Debug\Group_27.exe
+C:\Users\yarinmor\Downloads\Group_27\Group_27\Group_27 (1)\Group_27\obj\Debug\Group_27.pdb
+C:\Users\yairgaz\Desktop\פרוייקט\Group_27 (1)\Group_27\bin\Debug\Group_27.exe.config
+C:\Users\yairgaz\Desktop\פרוייקט\Group_27 (1)\Group_27\bin\Debug\Group_27.exe
+C:\Users\yairgaz\Desktop\פרוייקט\Group_27 (1)\Group_27\bin\Debug\Group_27.pdb
+C:\Users\yairgaz\Desktop\פרוייקט\Group_27 (1)\Group_27\obj\Debug\Group_27.csprojResolveAssemblyReference.cache
+C:\Users\yairgaz\Desktop\פרוייקט\Group_27 (1)\Group_27\obj\Debug\Group_27.AddEmployee.resources
+C:\Users\yairgaz\Desktop\פרוייקט\Group_27 (1)\Group_27\obj\Debug\Group_27.Crud_Employee.resources
+C:\Users\yairgaz\Desktop\פרוייקט\Group_27 (1)\Group_27\obj\Debug\Group_27.Properties.Resources.resources
+C:\Users\yairgaz\Desktop\פרוייקט\Group_27 (1)\Group_27\obj\Debug\Group_27.Show_Employee.resources
+C:\Users\yairgaz\Desktop\פרוייקט\Group_27 (1)\Group_27\obj\Debug\Group_27.csproj.GenerateResource.Cache
+C:\Users\yairgaz\Desktop\פרוייקט\Group_27 (1)\Group_27\obj\Debug\Group_27.csproj.CoreCompileInputs.cache
+C:\Users\yairgaz\Desktop\פרוייקט\Group_27 (1)\Group_27\obj\Debug\Group_27.exe
+C:\Users\yairgaz\Desktop\פרוייקט\Group_27 (1)\Group_27\obj\Debug\Group_27.pdb
+C:\Users\yairgaz\Desktop\Group_27 (1)\Group_27\bin\Debug\Group_27.exe.config
+C:\Users\yairgaz\Desktop\Group_27 (1)\Group_27\bin\Debug\Group_27.exe
+C:\Users\yairgaz\Desktop\Group_27 (1)\Group_27\bin\Debug\Group_27.pdb
+C:\Users\yairgaz\Desktop\Group_27 (1)\Group_27\obj\Debug\Group_27.csprojResolveAssemblyReference.cache
+C:\Users\yairgaz\Desktop\Group_27 (1)\Group_27\obj\Debug\Group_27.AddEmployee.resources
+C:\Users\yairgaz\Desktop\Group_27 (1)\Group_27\obj\Debug\Group_27.Crud_Employee.resources
+C:\Users\yairgaz\Desktop\Group_27 (1)\Group_27\obj\Debug\Group_27.Properties.Resources.resources
+C:\Users\yairgaz\Desktop\Group_27 (1)\Group_27\obj\Debug\Group_27.Show_Employee.resources
+C:\Users\yairgaz\Desktop\Group_27 (1)\Group_27\obj\Debug\Group_27.csproj.GenerateResource.Cache
+C:\Users\yairgaz\Desktop\Group_27 (1)\Group_27\obj\Debug\Group_27.csproj.CoreCompileInputs.cache
+C:\Users\yairgaz\Desktop\Group_27 (1)\Group_27\obj\Debug\Group_27.exe
+C:\Users\yairgaz\Desktop\Group_27 (1)\Group_27\obj\Debug\Group_27.pdb
+C:\Users\yairgaz\Desktop\Group_27 (1)\Group_27\obj\Debug\Group_27.Add_Customer.resources
+C:\Users\yairgaz\Desktop\Group_27 (1)\Group_27\obj\Debug\Group_27.AddSupplier.resources
+C:\Users\yairgaz\Desktop\Group_27 (1)\Group_27\obj\Debug\Group_27.AddProduct.resources
+C:\Users\talshach\Desktop\Group_27\Group_27\Group_27\bin\Debug\Group_27.exe.config
+C:\Users\talshach\Desktop\Group_27\Group_27\Group_27\bin\Debug\Group_27.exe
+C:\Users\talshach\Desktop\Group_27\Group_27\Group_27\bin\Debug\Group_27.pdb
+C:\Users\talshach\Desktop\Group_27\Group_27\Group_27\obj\Debug\Group_27.csprojResolveAssemblyReference.cache
+C:\Users\talshach\Desktop\Group_27\Group_27\Group_27\obj\Debug\Group_27.AddEmployee.resources
+C:\Users\talshach\Desktop\Group_27\Group_27\Group_27\obj\Debug\Group_27.AddProduct.resources
+C:\Users\talshach\Desktop\Group_27\Group_27\Group_27\obj\Debug\Group_27.AddSupplier.resources
+C:\Users\talshach\Desktop\Group_27\Group_27\Group_27\obj\Debug\Group_27.Add_Customer.resources
+C:\Users\talshach\Desktop\Group_27\Group_27\Group_27\obj\Debug\Group_27.Crud_Employee.resources
+C:\Users\talshach\Desktop\Group_27\Group_27\Group_27\obj\Debug\Group_27.Properties.Resources.resources
+C:\Users\talshach\Desktop\Group_27\Group_27\Group_27\obj\Debug\Group_27.Show_Employee.resources
+C:\Users\talshach\Desktop\Group_27\Group_27\Group_27\obj\Debug\Group_27.csproj.GenerateResource.Cache
+C:\Users\talshach\Desktop\Group_27\Group_27\Group_27\obj\Debug\Group_27.csproj.CoreCompileInputs.cache
+C:\Users\talshach\Desktop\Group_27\Group_27\Group_27\obj\Debug\Group_27.exe
+C:\Users\talshach\Desktop\Group_27\Group_27\Group_27\obj\Debug\Group_27.pdb
+C:\Users\talshach\Desktop\Group_27\Group_27\Group_27\obj\Debug\Group_27.AllEmployees.resources
+C:\Users\talshach\Desktop\Group_27\Group_27\Group_27\obj\Debug\Group_27.Crud_Customer.resources
+C:\Users\talshach\Desktop\Group_27\Group_27\Group_27\obj\Debug\Group_27.Crud_Product.resources
+C:\Users\talshach\Desktop\Group_27\Group_27\Group_27\obj\Debug\Group_27.Crud_Supplier.resources
+C:\Users\talshach\Desktop\Group_27\Group_27\Group_27\obj\Debug\Group_27.ShowSupplier.resources
+C:\Users\yairgaz\Desktop\שמירות\ישן\Group_27\Group_27\Group_27\Group_27\bin\Debug\Group_27.exe.config
+C:\Users\yairgaz\Desktop\שמירות\ישן\Group_27\Group_27\Group_27\Group_27\bin\Debug\Group_27.exe
+C:\Users\yairgaz\Desktop\שמירות\ישן\Group_27\Group_27\Group_27\Group_27\bin\Debug\Group_27.pdb
+C:\Users\yairgaz\Desktop\שמירות\ישן\Group_27\Group_27\Group_27\Group_27\obj\Debug\Group_27.csprojResolveAssemblyReference.cache
+C:\Users\yairgaz\Desktop\שמירות\ישן\Group_27\Group_27\Group_27\Group_27\obj\Debug\Group_27.AddEmployee.resources
+C:\Users\yairgaz\Desktop\שמירות\ישן\Group_27\Group_27\Group_27\Group_27\obj\Debug\Group_27.AddProduct.resources
+C:\Users\yairgaz\Desktop\שמירות\ישן\Group_27\Group_27\Group_27\Group_27\obj\Debug\Group_27.AddSupplier.resources
+C:\Users\yairgaz\Desktop\שמירות\ישן\Group_27\Group_27\Group_27\Group_27\obj\Debug\Group_27.Add_Customer.resources
+C:\Users\yairgaz\Desktop\שמירות\ישן\Group_27\Group_27\Group_27\Group_27\obj\Debug\Group_27.AllEmployees.resources
+C:\Users\yairgaz\Desktop\שמירות\ישן\Group_27\Group_27\Group_27\Group_27\obj\Debug\Group_27.Crud_Customer.resources
+C:\Users\yairgaz\Desktop\שמירות\ישן\Group_27\Group_27\Group_27\Group_27\obj\Debug\Group_27.Crud_Employee.resources
+C:\Users\yairgaz\Desktop\שמירות\ישן\Group_27\Group_27\Group_27\Group_27\obj\Debug\Group_27.Crud_Product.resources
+C:\Users\yairgaz\Desktop\שמירות\ישן\Group_27\Group_27\Group_27\Group_27\obj\Debug\Group_27.Crud_Supplier.resources
+C:\Users\yairgaz\Desktop\שמירות\ישן\Group_27\Group_27\Group_27\Group_27\obj\Debug\Group_27.Properties.Resources.resources
+C:\Users\yairgaz\Desktop\שמירות\ישן\Group_27\Group_27\Group_27\Group_27\obj\Debug\Group_27.ShowSupplier.resources
+C:\Users\yairgaz\Desktop\שמירות\ישן\Group_27\Group_27\Group_27\Group_27\obj\Debug\Group_27.Show_Employee.resources
+C:\Users\yairgaz\Desktop\שמירות\ישן\Group_27\Group_27\Group_27\Group_27\obj\Debug\Group_27.csproj.GenerateResource.Cache
+C:\Users\yairgaz\Desktop\שמירות\ישן\Group_27\Group_27\Group_27\Group_27\obj\Debug\Group_27.csproj.CoreCompileInputs.cache
+C:\Users\yairgaz\Desktop\שמירות\ישן\Group_27\Group_27\Group_27\Group_27\obj\Debug\Group_27.exe
+C:\Users\yairgaz\Desktop\שמירות\ישן\Group_27\Group_27\Group_27\Group_27\obj\Debug\Group_27.pdb
+C:\Users\yairgaz\Desktop\שמירות\ישן\Group_27\Group_27\Group_27\Group_27\obj\Debug\Group_27.Show_Product.resources
+C:\Users\yairgaz\Desktop\שמירות\ישן\Group_27\Group_27\Group_27\Group_27\obj\Debug\Group_27.Show_Customer.resources
+C:\Users\yairgaz\Desktop\שמירות\ישן\Group_27\Group_27\Group_27\Group_27\obj\Debug\Group_27.AllSuppliers.resources
+C:\Users\yairgaz\Desktop\פרוייקט\Group_27 (1)\Group_27\Group_27\Group_27\Group_27\bin\Debug\Group_27.exe.config
+C:\Users\yairgaz\Desktop\פרוייקט\Group_27 (1)\Group_27\Group_27\Group_27\Group_27\bin\Debug\Group_27.exe
+C:\Users\yairgaz\Desktop\פרוייקט\Group_27 (1)\Group_27\Group_27\Group_27\Group_27\bin\Debug\Group_27.pdb
+C:\Users\yairgaz\Desktop\פרוייקט\Group_27 (1)\Group_27\Group_27\Group_27\Group_27\obj\Debug\Group_27.csprojResolveAssemblyReference.cache
+C:\Users\yairgaz\Desktop\פרוייקט\Group_27 (1)\Group_27\Group_27\Group_27\Group_27\obj\Debug\Group_27.AddEmployee.resources
+C:\Users\yairgaz\Desktop\פרוייקט\Group_27 (1)\Group_27\Group_27\Group_27\Group_27\obj\Debug\Group_27.AddProduct.resources
+C:\Users\yairgaz\Desktop\פרוייקט\Group_27 (1)\Group_27\Group_27\Group_27\Group_27\obj\Debug\Group_27.AddSupplier.resources
+C:\Users\yairgaz\Desktop\פרוייקט\Group_27 (1)\Group_27\Group_27\Group_27\Group_27\obj\Debug\Group_27.Add_Customer.resources
+C:\Users\yairgaz\Desktop\פרוייקט\Group_27 (1)\Group_27\Group_27\Group_27\Group_27\obj\Debug\Group_27.AllEmployees.resources
+C:\Users\yairgaz\Desktop\פרוייקט\Group_27 (1)\Group_27\Group_27\Group_27\Group_27\obj\Debug\Group_27.AllSuppliers.resources
+C:\Users\yairgaz\Desktop\פרוייקט\Group_27 (1)\Group_27\Group_27\Group_27\Group_27\obj\Debug\Group_27.Crud_Customer.resources
+C:\Users\yairgaz\Desktop\פרוייקט\Group_27 (1)\Group_27\Group_27\Group_27\Group_27\obj\Debug\Group_27.Crud_Employee.resources
+C:\Users\yairgaz\Desktop\פרוייקט\Group_27 (1)\Group_27\Group_27\Group_27\Group_27\obj\Debug\Group_27.Crud_Product.resources
+C:\Users\yairgaz\Desktop\פרוייקט\Group_27 (1)\Group_27\Group_27\Group_27\Group_27\obj\Debug\Group_27.Crud_Supplier.resources
+C:\Users\yairgaz\Desktop\פרוייקט\Group_27 (1)\Group_27\Group_27\Group_27\Group_27\obj\Debug\Group_27.Properties.Resources.resources
+C:\Users\yairgaz\Desktop\פרוייקט\Group_27 (1)\Group_27\Group_27\Group_27\Group_27\obj\Debug\Group_27.ShowSupplier.resources
+C:\Users\yairgaz\Desktop\פרוייקט\Group_27 (1)\Group_27\Group_27\Group_27\Group_27\obj\Debug\Group_27.Show_Customer.resources
+C:\Users\yairgaz\Desktop\פרוייקט\Group_27 (1)\Group_27\Group_27\Group_27\Group_27\obj\Debug\Group_27.Show_Employee.resources
+C:\Users\yairgaz\Desktop\פרוייקט\Group_27 (1)\Group_27\Group_27\Group_27\Group_27\obj\Debug\Group_27.Show_Product.resources
+C:\Users\yairgaz\Desktop\פרוייקט\Group_27 (1)\Group_27\Group_27\Group_27\Group_27\obj\Debug\Group_27.csproj.GenerateResource.Cache
+C:\Users\yairgaz\Desktop\פרוייקט\Group_27 (1)\Group_27\Group_27\Group_27\Group_27\obj\Debug\Group_27.csproj.CoreCompileInputs.cache
+C:\Users\yairgaz\Desktop\פרוייקט\Group_27 (1)\Group_27\Group_27\Group_27\Group_27\obj\Debug\Group_27.exe
+C:\Users\yairgaz\Desktop\פרוייקט\Group_27 (1)\Group_27\Group_27\Group_27\Group_27\obj\Debug\Group_27.pdb
+C:\Users\yairgaz\Desktop\פרוייקט\Group_27 (1)\Group_27\Group_27\Group_27\Group_27\obj\Debug\Group_27.AllProducts.resources
+C:\Users\yairgaz\Desktop\פרוייקט\Group_27 (1)\Group_27\Group_27\Group_27\Group_27\obj\Debug\Group_27.AllCustomers.resources
+C:\Users\yairgaz\Desktop\פרוייקט\Group_27 (1)\Group_27\Group_27\Group_27\Group_27\obj\Debug\Group_27.HomePage_Customers.resources
+C:\Users\yairgaz\Desktop\פרוייקט\Group_27 (1)\Group_27\Group_27\Group_27\Group_27\obj\Debug\Group_27.HomePage_Employees.resources
+C:\Users\yairgaz\Desktop\פרוייקט\Group_27 (1)\Group_27\Group_27\Group_27\Group_27\obj\Debug\Group_27.Login.resources
+C:\Users\yairgaz\Desktop\פרוייקט\Group_27 (1)\Group_27\Group_27\Group_27\Group_27\obj\Debug\Group_27.OrderManagment.resources
+C:\Users\yairgaz\Desktop\פרוייקט\Group_27 (1)\Group_27\Group_27\Group_27\Group_27\obj\Debug\Group_27.Show_Order.resources
+C:\Users\yairgaz\Desktop\פרוייקט\Group_27 (1)\Group_27\Group_27\Group_27\Group_27\obj\Debug\Group_27.Add_Order.resources
+C:\Users\yairgaz\Desktop\פרוייקט\Group_27 (1)\Group_27\Group_27\Group_27\Group_27\obj\Debug\Group_27.AllOrders.resources
+C:\Users\yairgaz\Desktop\הפרוייקט הדגול\Group_27 (2)\Group_27\Group_27\bin\Debug\Group_27.exe.config
+C:\Users\yairgaz\Desktop\הפרוייקט הדגול\Group_27 (2)\Group_27\Group_27\bin\Debug\Group_27.exe
+C:\Users\yairgaz\Desktop\הפרוייקט הדגול\Group_27 (2)\Group_27\Group_27\bin\Debug\Group_27.pdb
+C:\Users\yairgaz\Desktop\הפרוייקט הדגול\Group_27 (2)\Group_27\Group_27\obj\Debug\Group_27.csprojResolveAssemblyReference.cache
+C:\Users\yairgaz\Desktop\הפרוייקט הדגול\Group_27 (2)\Group_27\Group_27\obj\Debug\Group_27.AddEmployee.resources
+C:\Users\yairgaz\Desktop\הפרוייקט הדגול\Group_27 (2)\Group_27\Group_27\obj\Debug\Group_27.AddProduct.resources
+C:\Users\yairgaz\Desktop\הפרוייקט הדגול\Group_27 (2)\Group_27\Group_27\obj\Debug\Group_27.AddSupplier.resources
+C:\Users\yairgaz\Desktop\הפרוייקט הדגול\Group_27 (2)\Group_27\Group_27\obj\Debug\Group_27.Add_Customer.resources
+C:\Users\yairgaz\Desktop\הפרוייקט הדגול\Group_27 (2)\Group_27\Group_27\obj\Debug\Group_27.Add_Order.resources
+C:\Users\yairgaz\Desktop\הפרוייקט הדגול\Group_27 (2)\Group_27\Group_27\obj\Debug\Group_27.AllCustomers.resources
+C:\Users\yairgaz\Desktop\הפרוייקט הדגול\Group_27 (2)\Group_27\Group_27\obj\Debug\Group_27.AllEmployees.resources
+C:\Users\yairgaz\Desktop\הפרוייקט הדגול\Group_27 (2)\Group_27\Group_27\obj\Debug\Group_27.AllOrders.resources
+C:\Users\yairgaz\Desktop\הפרוייקט הדגול\Group_27 (2)\Group_27\Group_27\obj\Debug\Group_27.AllProducts.resources
+C:\Users\yairgaz\Desktop\הפרוייקט הדגול\Group_27 (2)\Group_27\Group_27\obj\Debug\Group_27.AllSuppliers.resources
+C:\Users\yairgaz\Desktop\הפרוייקט הדגול\Group_27 (2)\Group_27\Group_27\obj\Debug\Group_27.Crud_Customer.resources
+C:\Users\yairgaz\Desktop\הפרוייקט הדגול\Group_27 (2)\Group_27\Group_27\obj\Debug\Group_27.Crud_Employee.resources
+C:\Users\yairgaz\Desktop\הפרוייקט הדגול\Group_27 (2)\Group_27\Group_27\obj\Debug\Group_27.Crud_Product.resources
+C:\Users\yairgaz\Desktop\הפרוייקט הדגול\Group_27 (2)\Group_27\Group_27\obj\Debug\Group_27.Crud_Supplier.resources
+C:\Users\yairgaz\Desktop\הפרוייקט הדגול\Group_27 (2)\Group_27\Group_27\obj\Debug\Group_27.HomePage_Customers.resources
+C:\Users\yairgaz\Desktop\הפרוייקט הדגול\Group_27 (2)\Group_27\Group_27\obj\Debug\Group_27.HomePage_Employees.resources
+C:\Users\yairgaz\Desktop\הפרוייקט הדגול\Group_27 (2)\Group_27\Group_27\obj\Debug\Group_27.Login.resources
+C:\Users\yairgaz\Desktop\הפרוייקט הדגול\Group_27 (2)\Group_27\Group_27\obj\Debug\Group_27.OrderManagment.resources
+C:\Users\yairgaz\Desktop\הפרוייקט הדגול\Group_27 (2)\Group_27\Group_27\obj\Debug\Group_27.Properties.Resources.resources
+C:\Users\yairgaz\Desktop\הפרוייקט הדגול\Group_27 (2)\Group_27\Group_27\obj\Debug\Group_27.ShowSupplier.resources
+C:\Users\yairgaz\Desktop\הפרוייקט הדגול\Group_27 (2)\Group_27\Group_27\obj\Debug\Group_27.Show_Customer.resources
+C:\Users\yairgaz\Desktop\הפרוייקט הדגול\Group_27 (2)\Group_27\Group_27\obj\Debug\Group_27.Show_Employee.resources
+C:\Users\yairgaz\Desktop\הפרוייקט הדגול\Group_27 (2)\Group_27\Group_27\obj\Debug\Group_27.Show_Order.resources
+C:\Users\yairgaz\Desktop\הפרוייקט הדגול\Group_27 (2)\Group_27\Group_27\obj\Debug\Group_27.Show_Product.resources
+C:\Users\yairgaz\Desktop\הפרוייקט הדגול\Group_27 (2)\Group_27\Group_27\obj\Debug\Group_27.csproj.GenerateResource.Cache
+C:\Users\yairgaz\Desktop\הפרוייקט הדגול\Group_27 (2)\Group_27\Group_27\obj\Debug\Group_27.csproj.CoreCompileInputs.cache
+C:\Users\yairgaz\Desktop\הפרוייקט הדגול\Group_27 (2)\Group_27\Group_27\obj\Debug\Group_27.exe
+C:\Users\yairgaz\Desktop\הפרוייקט הדגול\Group_27 (2)\Group_27\Group_27\obj\Debug\Group_27.pdb
+C:\Users\talshach\Desktop\Group_27\Group_27 (2)\Group_27\Group_27\bin\Debug\Group_27.exe.config
+C:\Users\talshach\Desktop\Group_27\Group_27 (2)\Group_27\Group_27\bin\Debug\Group_27.exe
+C:\Users\talshach\Desktop\Group_27\Group_27 (2)\Group_27\Group_27\bin\Debug\Group_27.pdb
+C:\Users\talshach\Desktop\Group_27\Group_27 (2)\Group_27\Group_27\obj\Debug\Group_27.csprojResolveAssemblyReference.cache
+C:\Users\talshach\Desktop\Group_27\Group_27 (2)\Group_27\Group_27\obj\Debug\Group_27.AddEmployee.resources
+C:\Users\talshach\Desktop\Group_27\Group_27 (2)\Group_27\Group_27\obj\Debug\Group_27.AddProduct.resources
+C:\Users\talshach\Desktop\Group_27\Group_27 (2)\Group_27\Group_27\obj\Debug\Group_27.AddSupplier.resources
+C:\Users\talshach\Desktop\Group_27\Group_27 (2)\Group_27\Group_27\obj\Debug\Group_27.Add_Customer.resources
+C:\Users\talshach\Desktop\Group_27\Group_27 (2)\Group_27\Group_27\obj\Debug\Group_27.Add_Order.resources
+C:\Users\talshach\Desktop\Group_27\Group_27 (2)\Group_27\Group_27\obj\Debug\Group_27.AllCustomers.resources
+C:\Users\talshach\Desktop\Group_27\Group_27 (2)\Group_27\Group_27\obj\Debug\Group_27.AllEmployees.resources
+C:\Users\talshach\Desktop\Group_27\Group_27 (2)\Group_27\Group_27\obj\Debug\Group_27.AllOrders.resources
+C:\Users\talshach\Desktop\Group_27\Group_27 (2)\Group_27\Group_27\obj\Debug\Group_27.AllProducts.resources
+C:\Users\talshach\Desktop\Group_27\Group_27 (2)\Group_27\Group_27\obj\Debug\Group_27.AllSuppliers.resources
+C:\Users\talshach\Desktop\Group_27\Group_27 (2)\Group_27\Group_27\obj\Debug\Group_27.Crud_Customer.resources
+C:\Users\talshach\Desktop\Group_27\Group_27 (2)\Group_27\Group_27\obj\Debug\Group_27.Crud_Employee.resources
+C:\Users\talshach\Desktop\Group_27\Group_27 (2)\Group_27\Group_27\obj\Debug\Group_27.Crud_Product.resources
+C:\Users\talshach\Desktop\Group_27\Group_27 (2)\Group_27\Group_27\obj\Debug\Group_27.Crud_Supplier.resources
+C:\Users\talshach\Desktop\Group_27\Group_27 (2)\Group_27\Group_27\obj\Debug\Group_27.HomePage_Customers.resources
+C:\Users\talshach\Desktop\Group_27\Group_27 (2)\Group_27\Group_27\obj\Debug\Group_27.HomePage_Employees.resources
+C:\Users\talshach\Desktop\Group_27\Group_27 (2)\Group_27\Group_27\obj\Debug\Group_27.Login.resources
+C:\Users\talshach\Desktop\Group_27\Group_27 (2)\Group_27\Group_27\obj\Debug\Group_27.OrderManagment.resources
+C:\Users\talshach\Desktop\Group_27\Group_27 (2)\Group_27\Group_27\obj\Debug\Group_27.Properties.Resources.resources
+C:\Users\talshach\Desktop\Group_27\Group_27 (2)\Group_27\Group_27\obj\Debug\Group_27.ShowSupplier.resources
+C:\Users\talshach\Desktop\Group_27\Group_27 (2)\Group_27\Group_27\obj\Debug\Group_27.Show_Customer.resources
+C:\Users\talshach\Desktop\Group_27\Group_27 (2)\Group_27\Group_27\obj\Debug\Group_27.Show_Employee.resources
+C:\Users\talshach\Desktop\Group_27\Group_27 (2)\Group_27\Group_27\obj\Debug\Group_27.Show_Order.resources
+C:\Users\talshach\Desktop\Group_27\Group_27 (2)\Group_27\Group_27\obj\Debug\Group_27.Show_Product.resources
+C:\Users\talshach\Desktop\Group_27\Group_27 (2)\Group_27\Group_27\obj\Debug\Group_27.csproj.GenerateResource.Cache
+C:\Users\talshach\Desktop\Group_27\Group_27 (2)\Group_27\Group_27\obj\Debug\Group_27.csproj.CoreCompileInputs.cache
+C:\Users\talshach\Desktop\Group_27\Group_27 (2)\Group_27\Group_27\obj\Debug\Group_27.exe
+C:\Users\talshach\Desktop\Group_27\Group_27 (2)\Group_27\Group_27\obj\Debug\Group_27.pdb
+C:\Users\talshach\Desktop\שמירות\שמירה 1\Group_27\Group_27\bin\Debug\Group_27.exe.config
+C:\Users\talshach\Desktop\שמירות\שמירה 1\Group_27\Group_27\bin\Debug\Group_27.exe
+C:\Users\talshach\Desktop\שמירות\שמירה 1\Group_27\Group_27\bin\Debug\Group_27.pdb
+C:\Users\talshach\Desktop\שמירות\שמירה 1\Group_27\Group_27\obj\Debug\Group_27.csprojResolveAssemblyReference.cache
+C:\Users\talshach\Desktop\שמירות\שמירה 1\Group_27\Group_27\obj\Debug\Group_27.AddEmployee.resources
+C:\Users\talshach\Desktop\שמירות\שמירה 1\Group_27\Group_27\obj\Debug\Group_27.AddProduct.resources
+C:\Users\talshach\Desktop\שמירות\שמירה 1\Group_27\Group_27\obj\Debug\Group_27.AddSupplier.resources
+C:\Users\talshach\Desktop\שמירות\שמירה 1\Group_27\Group_27\obj\Debug\Group_27.Add_Customer.resources
+C:\Users\talshach\Desktop\שמירות\שמירה 1\Group_27\Group_27\obj\Debug\Group_27.Add_Order.resources
+C:\Users\talshach\Desktop\שמירות\שמירה 1\Group_27\Group_27\obj\Debug\Group_27.AllCustomers.resources
+C:\Users\talshach\Desktop\שמירות\שמירה 1\Group_27\Group_27\obj\Debug\Group_27.AllEmployees.resources
+C:\Users\talshach\Desktop\שמירות\שמירה 1\Group_27\Group_27\obj\Debug\Group_27.AllOrders.resources
+C:\Users\talshach\Desktop\שמירות\שמירה 1\Group_27\Group_27\obj\Debug\Group_27.AllProducts.resources
+C:\Users\talshach\Desktop\שמירות\שמירה 1\Group_27\Group_27\obj\Debug\Group_27.AllSuppliers.resources
+C:\Users\talshach\Desktop\שמירות\שמירה 1\Group_27\Group_27\obj\Debug\Group_27.Crud_Customer.resources
+C:\Users\talshach\Desktop\שמירות\שמירה 1\Group_27\Group_27\obj\Debug\Group_27.Crud_Employee.resources
+C:\Users\talshach\Desktop\שמירות\שמירה 1\Group_27\Group_27\obj\Debug\Group_27.Crud_Product.resources
+C:\Users\talshach\Desktop\שמירות\שמירה 1\Group_27\Group_27\obj\Debug\Group_27.Crud_Supplier.resources
+C:\Users\talshach\Desktop\שמירות\שמירה 1\Group_27\Group_27\obj\Debug\Group_27.CustomerOrders.resources
+C:\Users\talshach\Desktop\שמירות\שמירה 1\Group_27\Group_27\obj\Debug\Group_27.HomePage_Customers.resources
+C:\Users\talshach\Desktop\שמירות\שמירה 1\Group_27\Group_27\obj\Debug\Group_27.HomePage_Employees.resources
+C:\Users\talshach\Desktop\שמירות\שמירה 1\Group_27\Group_27\obj\Debug\Group_27.Login.resources
+C:\Users\talshach\Desktop\שמירות\שמירה 1\Group_27\Group_27\obj\Debug\Group_27.OrderManagment.resources
+C:\Users\talshach\Desktop\שמירות\שמירה 1\Group_27\Group_27\obj\Debug\Group_27.Properties.Resources.resources
+C:\Users\talshach\Desktop\שמירות\שמירה 1\Group_27\Group_27\obj\Debug\Group_27.ShowSupplier.resources
+C:\Users\talshach\Desktop\שמירות\שמירה 1\Group_27\Group_27\obj\Debug\Group_27.Show_Customer.resources
+C:\Users\talshach\Desktop\שמירות\שמירה 1\Group_27\Group_27\obj\Debug\Group_27.Show_Employee.resources
+C:\Users\talshach\Desktop\שמירות\שמירה 1\Group_27\Group_27\obj\Debug\Group_27.Show_Order.resources
+C:\Users\talshach\Desktop\שמירות\שמירה 1\Group_27\Group_27\obj\Debug\Group_27.Show_Product.resources
+C:\Users\talshach\Desktop\שמירות\שמירה 1\Group_27\Group_27\obj\Debug\Group_27.csproj.GenerateResource.Cache
+C:\Users\talshach\Desktop\שמירות\שמירה 1\Group_27\Group_27\obj\Debug\Group_27.csproj.CoreCompileInputs.cache
+C:\Users\talshach\Desktop\שמירות\שמירה 1\Group_27\Group_27\obj\Debug\Group_27.exe
+C:\Users\talshach\Desktop\שמירות\שמירה 1\Group_27\Group_27\obj\Debug\Group_27.pdb
+C:\Users\talshach\Desktop\שמירות\שמירה 1\Group_27\Group_27\obj\Debug\Group_27.MyOrders.resources
+C:\Users\talshach\Desktop\שמירות\שמירה 1\Group_27\Group_27\obj\Debug\Group_27.Order_Tracking.resources
+C:\Users\talshach\Desktop\שמירות\שמירה 1\Group_27\Group_27\obj\Debug\Group_27.setTimeForWork.resources
+C:\Users\yairgaz\Desktop\פרוייקט\שמירות\התחלה\Group_27\Group_27\Group_27\obj\Debug\Group_27.csprojResolveAssemblyReference.cache
+C:\Users\yairgaz\Desktop\פרוייקט\שמירות\התחלה\Group_27\Group_27\Group_27\obj\Debug\Group_27.AddEmployee.resources
+C:\Users\yairgaz\Desktop\פרוייקט\שמירות\התחלה\Group_27\Group_27\Group_27\obj\Debug\Group_27.AddProduct.resources
+C:\Users\yairgaz\Desktop\פרוייקט\שמירות\התחלה\Group_27\Group_27\Group_27\obj\Debug\Group_27.AddSupplier.resources
+C:\Users\yairgaz\Desktop\פרוייקט\שמירות\התחלה\Group_27\Group_27\Group_27\obj\Debug\Group_27.Add_Customer.resources
+C:\Users\yairgaz\Desktop\פרוייקט\שמירות\התחלה\Group_27\Group_27\Group_27\obj\Debug\Group_27.Add_Order.resources
+C:\Users\yairgaz\Desktop\פרוייקט\שמירות\התחלה\Group_27\Group_27\Group_27\obj\Debug\Group_27.AllCustomers.resources
+C:\Users\yairgaz\Desktop\פרוייקט\שמירות\התחלה\Group_27\Group_27\Group_27\obj\Debug\Group_27.AllEmployees.resources
+C:\Users\yairgaz\Desktop\פרוייקט\שמירות\התחלה\Group_27\Group_27\Group_27\obj\Debug\Group_27.AllOrders.resources
+C:\Users\yairgaz\Desktop\פרוייקט\שמירות\התחלה\Group_27\Group_27\Group_27\obj\Debug\Group_27.AllProducts.resources
+C:\Users\yairgaz\Desktop\פרוייקט\שמירות\התחלה\Group_27\Group_27\Group_27\obj\Debug\Group_27.AllSuppliers.resources
+C:\Users\yairgaz\Desktop\פרוייקט\שמירות\התחלה\Group_27\Group_27\Group_27\obj\Debug\Group_27.Crud_Customer.resources
+C:\Users\yairgaz\Desktop\פרוייקט\שמירות\התחלה\Group_27\Group_27\Group_27\obj\Debug\Group_27.Crud_Employee.resources
+C:\Users\yairgaz\Desktop\פרוייקט\שמירות\התחלה\Group_27\Group_27\Group_27\obj\Debug\Group_27.Crud_Product.resources
+C:\Users\yairgaz\Desktop\פרוייקט\שמירות\התחלה\Group_27\Group_27\Group_27\obj\Debug\Group_27.Crud_Supplier.resources
+C:\Users\yairgaz\Desktop\פרוייקט\שמירות\התחלה\Group_27\Group_27\Group_27\obj\Debug\Group_27.CustomerOrders.resources
+C:\Users\yairgaz\Desktop\פרוייקט\שמירות\התחלה\Group_27\Group_27\Group_27\obj\Debug\Group_27.HomePage_Customers.resources
+C:\Users\yairgaz\Desktop\פרוייקט\שמירות\התחלה\Group_27\Group_27\Group_27\obj\Debug\Group_27.HomePage_Employees.resources
+C:\Users\yairgaz\Desktop\פרוייקט\שמירות\התחלה\Group_27\Group_27\Group_27\obj\Debug\Group_27.Login.resources
+C:\Users\yairgaz\Desktop\פרוייקט\שמירות\התחלה\Group_27\Group_27\Group_27\obj\Debug\Group_27.MyOrders.resources
+C:\Users\yairgaz\Desktop\פרוייקט\שמירות\התחלה\Group_27\Group_27\Group_27\obj\Debug\Group_27.OrderManagment.resources
+C:\Users\yairgaz\Desktop\פרוייקט\שמירות\התחלה\Group_27\Group_27\Group_27\obj\Debug\Group_27.Order_Tracking.resources
+C:\Users\yairgaz\Desktop\פרוייקט\שמירות\התחלה\Group_27\Group_27\Group_27\obj\Debug\Group_27.Properties.Resources.resources
+C:\Users\yairgaz\Desktop\פרוייקט\שמירות\התחלה\Group_27\Group_27\Group_27\obj\Debug\Group_27.setTimeForWork.resources
+C:\Users\yairgaz\Desktop\פרוייקט\שמירות\התחלה\Group_27\Group_27\Group_27\obj\Debug\Group_27.ShowSupplier.resources
+C:\Users\yairgaz\Desktop\פרוייקט\שמירות\התחלה\Group_27\Group_27\Group_27\obj\Debug\Group_27.Show_Customer.resources
+C:\Users\yairgaz\Desktop\פרוייקט\שמירות\התחלה\Group_27\Group_27\Group_27\obj\Debug\Group_27.Show_Employee.resources
+C:\Users\yairgaz\Desktop\פרוייקט\שמירות\התחלה\Group_27\Group_27\Group_27\obj\Debug\Group_27.Show_Order.resources
+C:\Users\yairgaz\Desktop\פרוייקט\שמירות\התחלה\Group_27\Group_27\Group_27\obj\Debug\Group_27.Show_Product.resources
+C:\Users\yairgaz\Desktop\פרוייקט\שמירות\התחלה\Group_27\Group_27\Group_27\obj\Debug\Group_27.csproj.GenerateResource.Cache
+C:\Users\yairgaz\Desktop\פרוייקט\שמירות\התחלה\Group_27\Group_27\Group_27\obj\Debug\Group_27.csproj.CoreCompileInputs.cache
+C:\Users\yairgaz\Desktop\פרוייקט\שמירות\התחלה\Group_27\Group_27\Group_27\obj\Debug\Group_27.exe
+C:\Users\yairgaz\Desktop\פרוייקט\שמירות\התחלה\Group_27\Group_27\Group_27\obj\Debug\Group_27.pdb
+C:\Users\yairgaz\Desktop\פרוייקט\שמירות\התחלה\Group_27\Group_27\Group_27\bin\Debug\Group_27.exe.config
+C:\Users\yairgaz\Desktop\פרוייקט\שמירות\התחלה\Group_27\Group_27\Group_27\bin\Debug\Group_27.exe
+C:\Users\yairgaz\Desktop\פרוייקט\שמירות\התחלה\Group_27\Group_27\Group_27\bin\Debug\Group_27.pdb
+C:\Users\yairgaz\Desktop\פרוייקט\שמירות\התחלה\Group_27\Group_27\Group_27\obj\Debug\Group_27.StandardTime.resources
+C:\Users\yairgaz\Desktop\שמירות\Group_27\Group_27\Group_27\Group_27\bin\Debug\Group_27.exe.config
+C:\Users\yairgaz\Desktop\שמירות\Group_27\Group_27\Group_27\Group_27\bin\Debug\Group_27.exe
+C:\Users\yairgaz\Desktop\שמירות\Group_27\Group_27\Group_27\Group_27\bin\Debug\Group_27.pdb
+C:\Users\yairgaz\Desktop\שמירות\Group_27\Group_27\Group_27\Group_27\obj\Debug\Group_27.csprojResolveAssemblyReference.cache
+C:\Users\yairgaz\Desktop\שמירות\Group_27\Group_27\Group_27\Group_27\obj\Debug\Group_27.AddEmployee.resources
+C:\Users\yairgaz\Desktop\שמירות\Group_27\Group_27\Group_27\Group_27\obj\Debug\Group_27.AddProduct.resources
+C:\Users\yairgaz\Desktop\שמירות\Group_27\Group_27\Group_27\Group_27\obj\Debug\Group_27.AddSupplier.resources
+C:\Users\yairgaz\Desktop\שמירות\Group_27\Group_27\Group_27\Group_27\obj\Debug\Group_27.Add_Customer.resources
+C:\Users\yairgaz\Desktop\שמירות\Group_27\Group_27\Group_27\Group_27\obj\Debug\Group_27.Add_Order.resources
+C:\Users\yairgaz\Desktop\שמירות\Group_27\Group_27\Group_27\Group_27\obj\Debug\Group_27.AllCustomers.resources
+C:\Users\yairgaz\Desktop\שמירות\Group_27\Group_27\Group_27\Group_27\obj\Debug\Group_27.AllEmployees.resources
+C:\Users\yairgaz\Desktop\שמירות\Group_27\Group_27\Group_27\Group_27\obj\Debug\Group_27.AllOrders.resources
+C:\Users\yairgaz\Desktop\שמירות\Group_27\Group_27\Group_27\Group_27\obj\Debug\Group_27.AllProducts.resources
+C:\Users\yairgaz\Desktop\שמירות\Group_27\Group_27\Group_27\Group_27\obj\Debug\Group_27.AllSuppliers.resources
+C:\Users\yairgaz\Desktop\שמירות\Group_27\Group_27\Group_27\Group_27\obj\Debug\Group_27.Crud_Customer.resources
+C:\Users\yairgaz\Desktop\שמירות\Group_27\Group_27\Group_27\Group_27\obj\Debug\Group_27.Crud_Employee.resources
+C:\Users\yairgaz\Desktop\שמירות\Group_27\Group_27\Group_27\Group_27\obj\Debug\Group_27.Crud_Product.resources
+C:\Users\yairgaz\Desktop\שמירות\Group_27\Group_27\Group_27\Group_27\obj\Debug\Group_27.Crud_Supplier.resources
+C:\Users\yairgaz\Desktop\שמירות\Group_27\Group_27\Group_27\Group_27\obj\Debug\Group_27.CustomerOrders.resources
+C:\Users\yairgaz\Desktop\שמירות\Group_27\Group_27\Group_27\Group_27\obj\Debug\Group_27.HomePage_Customers.resources
+C:\Users\yairgaz\Desktop\שמירות\Group_27\Group_27\Group_27\Group_27\obj\Debug\Group_27.HomePage_Employees.resources
+C:\Users\yairgaz\Desktop\שמירות\Group_27\Group_27\Group_27\Group_27\obj\Debug\Group_27.Login.resources
+C:\Users\yairgaz\Desktop\שמירות\Group_27\Group_27\Group_27\Group_27\obj\Debug\Group_27.MyOrders.resources
+C:\Users\yairgaz\Desktop\שמירות\Group_27\Group_27\Group_27\Group_27\obj\Debug\Group_27.OrderManagment.resources
+C:\Users\yairgaz\Desktop\שמירות\Group_27\Group_27\Group_27\Group_27\obj\Debug\Group_27.Order_Tracking.resources
+C:\Users\yairgaz\Desktop\שמירות\Group_27\Group_27\Group_27\Group_27\obj\Debug\Group_27.Properties.Resources.resources
+C:\Users\yairgaz\Desktop\שמירות\Group_27\Group_27\Group_27\Group_27\obj\Debug\Group_27.setTimeForWork.resources
+C:\Users\yairgaz\Desktop\שמירות\Group_27\Group_27\Group_27\Group_27\obj\Debug\Group_27.ShowSupplier.resources
+C:\Users\yairgaz\Desktop\שמירות\Group_27\Group_27\Group_27\Group_27\obj\Debug\Group_27.Show_Customer.resources
+C:\Users\yairgaz\Desktop\שמירות\Group_27\Group_27\Group_27\Group_27\obj\Debug\Group_27.Show_Employee.resources
+C:\Users\yairgaz\Desktop\שמירות\Group_27\Group_27\Group_27\Group_27\obj\Debug\Group_27.Show_Order.resources
+C:\Users\yairgaz\Desktop\שמירות\Group_27\Group_27\Group_27\Group_27\obj\Debug\Group_27.Show_Product.resources
+C:\Users\yairgaz\Desktop\שמירות\Group_27\Group_27\Group_27\Group_27\obj\Debug\Group_27.StandardTime.resources
+C:\Users\yairgaz\Desktop\שמירות\Group_27\Group_27\Group_27\Group_27\obj\Debug\Group_27.csproj.GenerateResource.Cache
+C:\Users\yairgaz\Desktop\שמירות\Group_27\Group_27\Group_27\Group_27\obj\Debug\Group_27.csproj.CoreCompileInputs.cache
+C:\Users\yairgaz\Desktop\שמירות\Group_27\Group_27\Group_27\Group_27\obj\Debug\Group_27.exe
+C:\Users\yairgaz\Desktop\שמירות\Group_27\Group_27\Group_27\Group_27\obj\Debug\Group_27.pdb
+C:\Users\yairgaz\Desktop\שמירות\Group_27\Group_27\Group_27\Group_27\obj\Debug\Group_27.CreateOrderFromSupplier.resources
+C:\Users\yairgaz\Desktop\שמירות\Group_27\Group_27\Group_27\Group_27\obj\Debug\Group_27.Add_productionProcess.resources
+C:\Users\yairgaz\Desktop\Project\Group_27 (1)\Group_27\Group_27\Group_27\obj\Debug\Group_27.csprojResolveAssemblyReference.cache
+C:\Users\yairgaz\Desktop\Project\Group_27 (1)\Group_27\Group_27\Group_27\obj\Debug\Group_27.AddEmployee.resources
+C:\Users\yairgaz\Desktop\Project\Group_27 (1)\Group_27\Group_27\Group_27\obj\Debug\Group_27.AddProduct.resources
+C:\Users\yairgaz\Desktop\Project\Group_27 (1)\Group_27\Group_27\Group_27\obj\Debug\Group_27.AddSupplier.resources
+C:\Users\yairgaz\Desktop\Project\Group_27 (1)\Group_27\Group_27\Group_27\obj\Debug\Group_27.Add_Customer.resources
+C:\Users\yairgaz\Desktop\Project\Group_27 (1)\Group_27\Group_27\Group_27\obj\Debug\Group_27.Add_Order.resources
+C:\Users\yairgaz\Desktop\Project\Group_27 (1)\Group_27\Group_27\Group_27\obj\Debug\Group_27.Add_productionProcess.resources
+C:\Users\yairgaz\Desktop\Project\Group_27 (1)\Group_27\Group_27\Group_27\obj\Debug\Group_27.AllCustomers.resources
+C:\Users\yairgaz\Desktop\Project\Group_27 (1)\Group_27\Group_27\Group_27\obj\Debug\Group_27.AllEmployees.resources
+C:\Users\yairgaz\Desktop\Project\Group_27 (1)\Group_27\Group_27\Group_27\obj\Debug\Group_27.AllOrders.resources
+C:\Users\yairgaz\Desktop\Project\Group_27 (1)\Group_27\Group_27\Group_27\obj\Debug\Group_27.AllProducts.resources
+C:\Users\yairgaz\Desktop\Project\Group_27 (1)\Group_27\Group_27\Group_27\obj\Debug\Group_27.AllSuppliers.resources
+C:\Users\yairgaz\Desktop\Project\Group_27 (1)\Group_27\Group_27\Group_27\obj\Debug\Group_27.CreateOrderFromSupplier.resources
+C:\Users\yairgaz\Desktop\Project\Group_27 (1)\Group_27\Group_27\Group_27\obj\Debug\Group_27.Crud_Customer.resources
+C:\Users\yairgaz\Desktop\Project\Group_27 (1)\Group_27\Group_27\Group_27\obj\Debug\Group_27.Crud_Employee.resources
+C:\Users\yairgaz\Desktop\Project\Group_27 (1)\Group_27\Group_27\Group_27\obj\Debug\Group_27.Crud_Product.resources
+C:\Users\yairgaz\Desktop\Project\Group_27 (1)\Group_27\Group_27\Group_27\obj\Debug\Group_27.Crud_Supplier.resources
+C:\Users\yairgaz\Desktop\Project\Group_27 (1)\Group_27\Group_27\Group_27\obj\Debug\Group_27.CustomerOrders.resources
+C:\Users\yairgaz\Desktop\Project\Group_27 (1)\Group_27\Group_27\Group_27\obj\Debug\Group_27.HomePage_Customers.resources
+C:\Users\yairgaz\Desktop\Project\Group_27 (1)\Group_27\Group_27\Group_27\obj\Debug\Group_27.HomePage_Employees.resources
+C:\Users\yairgaz\Desktop\Project\Group_27 (1)\Group_27\Group_27\Group_27\obj\Debug\Group_27.Login.resources
+C:\Users\yairgaz\Desktop\Project\Group_27 (1)\Group_27\Group_27\Group_27\obj\Debug\Group_27.MyOrders.resources
+C:\Users\yairgaz\Desktop\Project\Group_27 (1)\Group_27\Group_27\Group_27\obj\Debug\Group_27.OrderManagment.resources
+C:\Users\yairgaz\Desktop\Project\Group_27 (1)\Group_27\Group_27\Group_27\obj\Debug\Group_27.Order_Tracking.resources
+C:\Users\yairgaz\Desktop\Project\Group_27 (1)\Group_27\Group_27\Group_27\obj\Debug\Group_27.Properties.Resources.resources
+C:\Users\yairgaz\Desktop\Project\Group_27 (1)\Group_27\Group_27\Group_27\obj\Debug\Group_27.setTimeForWork.resources
+C:\Users\yairgaz\Desktop\Project\Group_27 (1)\Group_27\Group_27\Group_27\obj\Debug\Group_27.ShowSupplier.resources
+C:\Users\yairgaz\Desktop\Project\Group_27 (1)\Group_27\Group_27\Group_27\obj\Debug\Group_27.Show_Customer.resources
+C:\Users\yairgaz\Desktop\Project\Group_27 (1)\Group_27\Group_27\Group_27\obj\Debug\Group_27.Show_Employee.resources
+C:\Users\yairgaz\Desktop\Project\Group_27 (1)\Group_27\Group_27\Group_27\obj\Debug\Group_27.Show_Order.resources
+C:\Users\yairgaz\Desktop\Project\Group_27 (1)\Group_27\Group_27\Group_27\obj\Debug\Group_27.Show_Product.resources
+C:\Users\yairgaz\Desktop\Project\Group_27 (1)\Group_27\Group_27\Group_27\obj\Debug\Group_27.StandardTime.resources
+C:\Users\yairgaz\Desktop\Project\Group_27 (1)\Group_27\Group_27\Group_27\obj\Debug\Group_27.csproj.GenerateResource.Cache
+C:\Users\yairgaz\Desktop\Project\Group_27 (1)\Group_27\Group_27\Group_27\obj\Debug\Group_27.csproj.CoreCompileInputs.cache
+C:\Users\yairgaz\Desktop\Project\Group_27 (1)\Group_27\Group_27\Group_27\obj\Debug\Group_27.exe
+C:\Users\yairgaz\Desktop\Project\Group_27 (1)\Group_27\Group_27\Group_27\obj\Debug\Group_27.pdb
+C:\Users\yairgaz\Desktop\Project\Group_27 (1)\Group_27\Group_27\Group_27\bin\Debug\Group_27.exe.config
+C:\Users\yairgaz\Desktop\Project\Group_27 (1)\Group_27\Group_27\Group_27\bin\Debug\Group_27.exe
+C:\Users\yairgaz\Desktop\Project\Group_27 (1)\Group_27\Group_27\Group_27\bin\Debug\Group_27.pdb
+C:\Users\yairgaz\Downloads\Group_27 (3)\Group_27\Group_27\bin\Debug\Group_27.exe.config
+C:\Users\yairgaz\Downloads\Group_27 (3)\Group_27\Group_27\bin\Debug\Group_27.exe
+C:\Users\yairgaz\Downloads\Group_27 (3)\Group_27\Group_27\bin\Debug\Group_27.pdb
+C:\Users\yairgaz\Downloads\Group_27 (3)\Group_27\Group_27\obj\Debug\Group_27.csprojResolveAssemblyReference.cache
+C:\Users\yairgaz\Downloads\Group_27 (3)\Group_27\Group_27\obj\Debug\Group_27.AddEmployee.resources
+C:\Users\yairgaz\Downloads\Group_27 (3)\Group_27\Group_27\obj\Debug\Group_27.AddProduct.resources
+C:\Users\yairgaz\Downloads\Group_27 (3)\Group_27\Group_27\obj\Debug\Group_27.AddSupplier.resources
+C:\Users\yairgaz\Downloads\Group_27 (3)\Group_27\Group_27\obj\Debug\Group_27.Add_Customer.resources
+C:\Users\yairgaz\Downloads\Group_27 (3)\Group_27\Group_27\obj\Debug\Group_27.Add_Order.resources
+C:\Users\yairgaz\Downloads\Group_27 (3)\Group_27\Group_27\obj\Debug\Group_27.Add_productionProcess.resources
+C:\Users\yairgaz\Downloads\Group_27 (3)\Group_27\Group_27\obj\Debug\Group_27.AllCustomers.resources
+C:\Users\yairgaz\Downloads\Group_27 (3)\Group_27\Group_27\obj\Debug\Group_27.AllEmployees.resources
+C:\Users\yairgaz\Downloads\Group_27 (3)\Group_27\Group_27\obj\Debug\Group_27.AllOrders.resources
+C:\Users\yairgaz\Downloads\Group_27 (3)\Group_27\Group_27\obj\Debug\Group_27.AllProducts.resources
+C:\Users\yairgaz\Downloads\Group_27 (3)\Group_27\Group_27\obj\Debug\Group_27.AllSuppliers.resources
+C:\Users\yairgaz\Downloads\Group_27 (3)\Group_27\Group_27\obj\Debug\Group_27.CreateOrderFromSupplier.resources
+C:\Users\yairgaz\Downloads\Group_27 (3)\Group_27\Group_27\obj\Debug\Group_27.Crud_Customer.resources
+C:\Users\yairgaz\Downloads\Group_27 (3)\Group_27\Group_27\obj\Debug\Group_27.Crud_Employee.resources
+C:\Users\yairgaz\Downloads\Group_27 (3)\Group_27\Group_27\obj\Debug\Group_27.Crud_Product.resources
+C:\Users\yairgaz\Downloads\Group_27 (3)\Group_27\Group_27\obj\Debug\Group_27.Crud_Supplier.resources
+C:\Users\yairgaz\Downloads\Group_27 (3)\Group_27\Group_27\obj\Debug\Group_27.CustomerOrders.resources
+C:\Users\yairgaz\Downloads\Group_27 (3)\Group_27\Group_27\obj\Debug\Group_27.HomePage_Customers.resources
+C:\Users\yairgaz\Downloads\Group_27 (3)\Group_27\Group_27\obj\Debug\Group_27.HomePage_Employees.resources
+C:\Users\yairgaz\Downloads\Group_27 (3)\Group_27\Group_27\obj\Debug\Group_27.Login.resources
+C:\Users\yairgaz\Downloads\Group_27 (3)\Group_27\Group_27\obj\Debug\Group_27.MyOrders.resources
+C:\Users\yairgaz\Downloads\Group_27 (3)\Group_27\Group_27\obj\Debug\Group_27.OrderManagment.resources
+C:\Users\yairgaz\Downloads\Group_27 (3)\Group_27\Group_27\obj\Debug\Group_27.Order_Tracking.resources
+C:\Users\yairgaz\Downloads\Group_27 (3)\Group_27\Group_27\obj\Debug\Group_27.Properties.Resources.resources
+C:\Users\yairgaz\Downloads\Group_27 (3)\Group_27\Group_27\obj\Debug\Group_27.setTimeForWork.resources
+C:\Users\yairgaz\Downloads\Group_27 (3)\Group_27\Group_27\obj\Debug\Group_27.ShowSupplier.resources
+C:\Users\yairgaz\Downloads\Group_27 (3)\Group_27\Group_27\obj\Debug\Group_27.Show_Customer.resources
+C:\Users\yairgaz\Downloads\Group_27 (3)\Group_27\Group_27\obj\Debug\Group_27.Show_Employee.resources
+C:\Users\yairgaz\Downloads\Group_27 (3)\Group_27\Group_27\obj\Debug\Group_27.Show_Order.resources
+C:\Users\yairgaz\Downloads\Group_27 (3)\Group_27\Group_27\obj\Debug\Group_27.Show_Product.resources
+C:\Users\yairgaz\Downloads\Group_27 (3)\Group_27\Group_27\obj\Debug\Group_27.StandardTime.resources
+C:\Users\yairgaz\Downloads\Group_27 (3)\Group_27\Group_27\obj\Debug\Group_27.csproj.GenerateResource.Cache
+C:\Users\yairgaz\Downloads\Group_27 (3)\Group_27\Group_27\obj\Debug\Group_27.csproj.CoreCompileInputs.cache
+C:\Users\yairgaz\Downloads\Group_27 (3)\Group_27\Group_27\obj\Debug\Group_27.exe
+C:\Users\yairgaz\Downloads\Group_27 (3)\Group_27\Group_27\obj\Debug\Group_27.pdb
+C:\Users\yarinmor\Downloads\Group_27 (3)\Group_27\Group_27\bin\Debug\Group_27.exe.config
+C:\Users\yarinmor\Downloads\Group_27 (3)\Group_27\Group_27\bin\Debug\Group_27.exe
+C:\Users\yarinmor\Downloads\Group_27 (3)\Group_27\Group_27\bin\Debug\Group_27.pdb
+C:\Users\yarinmor\Downloads\Group_27 (3)\Group_27\Group_27\obj\Debug\Group_27.csprojResolveAssemblyReference.cache
+C:\Users\yarinmor\Downloads\Group_27 (3)\Group_27\Group_27\obj\Debug\Group_27.AddEmployee.resources
+C:\Users\yarinmor\Downloads\Group_27 (3)\Group_27\Group_27\obj\Debug\Group_27.AddProduct.resources
+C:\Users\yarinmor\Downloads\Group_27 (3)\Group_27\Group_27\obj\Debug\Group_27.AddSupplier.resources
+C:\Users\yarinmor\Downloads\Group_27 (3)\Group_27\Group_27\obj\Debug\Group_27.Add_Customer.resources
+C:\Users\yarinmor\Downloads\Group_27 (3)\Group_27\Group_27\obj\Debug\Group_27.Add_Order.resources
+C:\Users\yarinmor\Downloads\Group_27 (3)\Group_27\Group_27\obj\Debug\Group_27.Add_productionProcess.resources
+C:\Users\yarinmor\Downloads\Group_27 (3)\Group_27\Group_27\obj\Debug\Group_27.AllCustomers.resources
+C:\Users\yarinmor\Downloads\Group_27 (3)\Group_27\Group_27\obj\Debug\Group_27.AllEmployees.resources
+C:\Users\yarinmor\Downloads\Group_27 (3)\Group_27\Group_27\obj\Debug\Group_27.AllOrders.resources
+C:\Users\yarinmor\Downloads\Group_27 (3)\Group_27\Group_27\obj\Debug\Group_27.AllProducts.resources
+C:\Users\yarinmor\Downloads\Group_27 (3)\Group_27\Group_27\obj\Debug\Group_27.AllSuppliers.resources
+C:\Users\yarinmor\Downloads\Group_27 (3)\Group_27\Group_27\obj\Debug\Group_27.CreateOrderFromSupplier.resources
+C:\Users\yarinmor\Downloads\Group_27 (3)\Group_27\Group_27\obj\Debug\Group_27.Crud_Customer.resources
+C:\Users\yarinmor\Downloads\Group_27 (3)\Group_27\Group_27\obj\Debug\Group_27.Crud_Employee.resources
+C:\Users\yarinmor\Downloads\Group_27 (3)\Group_27\Group_27\obj\Debug\Group_27.Crud_Product.resources
+C:\Users\yarinmor\Downloads\Group_27 (3)\Group_27\Group_27\obj\Debug\Group_27.Crud_Supplier.resources
+C:\Users\yarinmor\Downloads\Group_27 (3)\Group_27\Group_27\obj\Debug\Group_27.CustomerOrders.resources
+C:\Users\yarinmor\Downloads\Group_27 (3)\Group_27\Group_27\obj\Debug\Group_27.HomePage_Customers.resources
+C:\Users\yarinmor\Downloads\Group_27 (3)\Group_27\Group_27\obj\Debug\Group_27.HomePage_Employees.resources
+C:\Users\yarinmor\Downloads\Group_27 (3)\Group_27\Group_27\obj\Debug\Group_27.Login.resources
+C:\Users\yarinmor\Downloads\Group_27 (3)\Group_27\Group_27\obj\Debug\Group_27.MyOrders.resources
+C:\Users\yarinmor\Downloads\Group_27 (3)\Group_27\Group_27\obj\Debug\Group_27.OrderManagment.resources
+C:\Users\yarinmor\Downloads\Group_27 (3)\Group_27\Group_27\obj\Debug\Group_27.Order_Tracking.resources
+C:\Users\yarinmor\Downloads\Group_27 (3)\Group_27\Group_27\obj\Debug\Group_27.Properties.Resources.resources
+C:\Users\yarinmor\Downloads\Group_27 (3)\Group_27\Group_27\obj\Debug\Group_27.ReceivedFromSupplier.resources
+C:\Users\yarinmor\Downloads\Group_27 (3)\Group_27\Group_27\obj\Debug\Group_27.setTimeForWork.resources
+C:\Users\yarinmor\Downloads\Group_27 (3)\Group_27\Group_27\obj\Debug\Group_27.ShowSupplier.resources
+C:\Users\yarinmor\Downloads\Group_27 (3)\Group_27\Group_27\obj\Debug\Group_27.Show_Customer.resources
+C:\Users\yarinmor\Downloads\Group_27 (3)\Group_27\Group_27\obj\Debug\Group_27.Show_Employee.resources
+C:\Users\yarinmor\Downloads\Group_27 (3)\Group_27\Group_27\obj\Debug\Group_27.Show_Order.resources
+C:\Users\yarinmor\Downloads\Group_27 (3)\Group_27\Group_27\obj\Debug\Group_27.Show_Product.resources
+C:\Users\yarinmor\Downloads\Group_27 (3)\Group_27\Group_27\obj\Debug\Group_27.StandardTime.resources
+C:\Users\yarinmor\Downloads\Group_27 (3)\Group_27\Group_27\obj\Debug\Group_27.csproj.GenerateResource.Cache
+C:\Users\yarinmor\Downloads\Group_27 (3)\Group_27\Group_27\obj\Debug\Group_27.csproj.CoreCompileInputs.cache
+C:\Users\yarinmor\Downloads\Group_27 (3)\Group_27\Group_27\obj\Debug\Group_27.exe
+C:\Users\yarinmor\Downloads\Group_27 (3)\Group_27\Group_27\obj\Debug\Group_27.pdb
+C:\Users\yairgaz\Downloads\Group_27\Group_27\Group_27\bin\Debug\Group_27.exe.config
+C:\Users\yairgaz\Downloads\Group_27\Group_27\Group_27\bin\Debug\Group_27.exe
+C:\Users\yairgaz\Downloads\Group_27\Group_27\Group_27\bin\Debug\Group_27.pdb
+C:\Users\yairgaz\Downloads\Group_27\Group_27\Group_27\obj\Debug\Group_27.csprojResolveAssemblyReference.cache
+C:\Users\yairgaz\Downloads\Group_27\Group_27\Group_27\obj\Debug\Group_27.AddEmployee.resources
+C:\Users\yairgaz\Downloads\Group_27\Group_27\Group_27\obj\Debug\Group_27.AddProduct.resources
+C:\Users\yairgaz\Downloads\Group_27\Group_27\Group_27\obj\Debug\Group_27.AddSupplier.resources
+C:\Users\yairgaz\Downloads\Group_27\Group_27\Group_27\obj\Debug\Group_27.Add_Customer.resources
+C:\Users\yairgaz\Downloads\Group_27\Group_27\Group_27\obj\Debug\Group_27.Add_Order.resources
+C:\Users\yairgaz\Downloads\Group_27\Group_27\Group_27\obj\Debug\Group_27.Add_productionProcess.resources
+C:\Users\yairgaz\Downloads\Group_27\Group_27\Group_27\obj\Debug\Group_27.AllCustomers.resources
+C:\Users\yairgaz\Downloads\Group_27\Group_27\Group_27\obj\Debug\Group_27.AllEmployees.resources
+C:\Users\yairgaz\Downloads\Group_27\Group_27\Group_27\obj\Debug\Group_27.AllOrders.resources
+C:\Users\yairgaz\Downloads\Group_27\Group_27\Group_27\obj\Debug\Group_27.AllProducts.resources
+C:\Users\yairgaz\Downloads\Group_27\Group_27\Group_27\obj\Debug\Group_27.AllSuppliers.resources
+C:\Users\yairgaz\Downloads\Group_27\Group_27\Group_27\obj\Debug\Group_27.CreateOrderFromSupplier.resources
+C:\Users\yairgaz\Downloads\Group_27\Group_27\Group_27\obj\Debug\Group_27.Crud_Customer.resources
+C:\Users\yairgaz\Downloads\Group_27\Group_27\Group_27\obj\Debug\Group_27.Crud_Employee.resources
+C:\Users\yairgaz\Downloads\Group_27\Group_27\Group_27\obj\Debug\Group_27.Crud_Product.resources
+C:\Users\yairgaz\Downloads\Group_27\Group_27\Group_27\obj\Debug\Group_27.Crud_Supplier.resources
+C:\Users\yairgaz\Downloads\Group_27\Group_27\Group_27\obj\Debug\Group_27.CustomerOrders.resources
+C:\Users\yairgaz\Downloads\Group_27\Group_27\Group_27\obj\Debug\Group_27.HomePage_Customers.resources
+C:\Users\yairgaz\Downloads\Group_27\Group_27\Group_27\obj\Debug\Group_27.HomePage_Employees.resources
+C:\Users\yairgaz\Downloads\Group_27\Group_27\Group_27\obj\Debug\Group_27.Login.resources
+C:\Users\yairgaz\Downloads\Group_27\Group_27\Group_27\obj\Debug\Group_27.MyOrders.resources
+C:\Users\yairgaz\Downloads\Group_27\Group_27\Group_27\obj\Debug\Group_27.OrderManagment.resources
+C:\Users\yairgaz\Downloads\Group_27\Group_27\Group_27\obj\Debug\Group_27.Order_Tracking.resources
+C:\Users\yairgaz\Downloads\Group_27\Group_27\Group_27\obj\Debug\Group_27.Properties.Resources.resources
+C:\Users\yairgaz\Downloads\Group_27\Group_27\Group_27\obj\Debug\Group_27.ReceivedFromSupplier.resources
+C:\Users\yairgaz\Downloads\Group_27\Group_27\Group_27\obj\Debug\Group_27.setTimeForWork.resources
+C:\Users\yairgaz\Downloads\Group_27\Group_27\Group_27\obj\Debug\Group_27.ShowSupplier.resources
+C:\Users\yairgaz\Downloads\Group_27\Group_27\Group_27\obj\Debug\Group_27.Show_Customer.resources
+C:\Users\yairgaz\Downloads\Group_27\Group_27\Group_27\obj\Debug\Group_27.Show_Employee.resources
+C:\Users\yairgaz\Downloads\Group_27\Group_27\Group_27\obj\Debug\Group_27.Show_Order.resources
+C:\Users\yairgaz\Downloads\Group_27\Group_27\Group_27\obj\Debug\Group_27.Show_Product.resources
+C:\Users\yairgaz\Downloads\Group_27\Group_27\Group_27\obj\Debug\Group_27.StandardTime.resources
+C:\Users\yairgaz\Downloads\Group_27\Group_27\Group_27\obj\Debug\Group_27.csproj.GenerateResource.Cache
+C:\Users\yairgaz\Downloads\Group_27\Group_27\Group_27\obj\Debug\Group_27.csproj.CoreCompileInputs.cache
+C:\Users\yairgaz\Downloads\Group_27\Group_27\Group_27\obj\Debug\Group_27.exe
+C:\Users\yairgaz\Downloads\Group_27\Group_27\Group_27\obj\Debug\Group_27.pdb
+C:\Users\yairgaz\Downloads\Group_27\Group_27\Group_27\obj\Debug\Group_27.SortProdutionProcess.resources
+C:\Users\talshach\Desktop\Group_27\Group_27\Group_27\obj\Debug\Group_27.Add_Order.resources
+C:\Users\talshach\Desktop\Group_27\Group_27\Group_27\obj\Debug\Group_27.Add_productionProcess.resources
+C:\Users\talshach\Desktop\Group_27\Group_27\Group_27\obj\Debug\Group_27.AllCustomers.resources
+C:\Users\talshach\Desktop\Group_27\Group_27\Group_27\obj\Debug\Group_27.AllOrders.resources
+C:\Users\talshach\Desktop\Group_27\Group_27\Group_27\obj\Debug\Group_27.AllProducts.resources
+C:\Users\talshach\Desktop\Group_27\Group_27\Group_27\obj\Debug\Group_27.AllSuppliers.resources
+C:\Users\talshach\Desktop\Group_27\Group_27\Group_27\obj\Debug\Group_27.CreateOrderFromSupplier.resources
+C:\Users\talshach\Desktop\Group_27\Group_27\Group_27\obj\Debug\Group_27.CustomerOrders.resources
+C:\Users\talshach\Desktop\Group_27\Group_27\Group_27\obj\Debug\Group_27.HomePage_Customers.resources
+C:\Users\talshach\Desktop\Group_27\Group_27\Group_27\obj\Debug\Group_27.HomePage_Employees.resources
+C:\Users\talshach\Desktop\Group_27\Group_27\Group_27\obj\Debug\Group_27.Login.resources
+C:\Users\talshach\Desktop\Group_27\Group_27\Group_27\obj\Debug\Group_27.MyOrders.resources
+C:\Users\talshach\Desktop\Group_27\Group_27\Group_27\obj\Debug\Group_27.OrderManagment.resources
+C:\Users\talshach\Desktop\Group_27\Group_27\Group_27\obj\Debug\Group_27.Order_Tracking.resources
+C:\Users\talshach\Desktop\Group_27\Group_27\Group_27\obj\Debug\Group_27.ReceivedFromSupplier.resources
+C:\Users\talshach\Desktop\Group_27\Group_27\Group_27\obj\Debug\Group_27.setTimeForWork.resources
+C:\Users\talshach\Desktop\Group_27\Group_27\Group_27\obj\Debug\Group_27.Show_Customer.resources
+C:\Users\talshach\Desktop\Group_27\Group_27\Group_27\obj\Debug\Group_27.Show_Order.resources
+C:\Users\talshach\Desktop\Group_27\Group_27\Group_27\obj\Debug\Group_27.Show_Product.resources
+C:\Users\talshach\Desktop\Group_27\Group_27\Group_27\obj\Debug\Group_27.SortProdutionProcess.resources
+C:\Users\talshach\Desktop\Group_27\Group_27\Group_27\obj\Debug\Group_27.StandardTime.resources
+C:\Users\talshach\Desktop\שמירות אחרונות בהחלטטט\Group_27 (1)\Group_27\Group_27\bin\Debug\Group_27.exe.config
+C:\Users\talshach\Desktop\שמירות אחרונות בהחלטטט\Group_27 (1)\Group_27\Group_27\bin\Debug\Group_27.exe
+C:\Users\talshach\Desktop\שמירות אחרונות בהחלטטט\Group_27 (1)\Group_27\Group_27\bin\Debug\Group_27.pdb
+C:\Users\talshach\Desktop\שמירות אחרונות בהחלטטט\Group_27 (1)\Group_27\Group_27\obj\Debug\Group_27.csprojResolveAssemblyReference.cache
+C:\Users\talshach\Desktop\שמירות אחרונות בהחלטטט\Group_27 (1)\Group_27\Group_27\obj\Debug\Group_27.AddEmployee.resources
+C:\Users\talshach\Desktop\שמירות אחרונות בהחלטטט\Group_27 (1)\Group_27\Group_27\obj\Debug\Group_27.AddProduct.resources
+C:\Users\talshach\Desktop\שמירות אחרונות בהחלטטט\Group_27 (1)\Group_27\Group_27\obj\Debug\Group_27.AddSupplier.resources
+C:\Users\talshach\Desktop\שמירות אחרונות בהחלטטט\Group_27 (1)\Group_27\Group_27\obj\Debug\Group_27.Add_Customer.resources
+C:\Users\talshach\Desktop\שמירות אחרונות בהחלטטט\Group_27 (1)\Group_27\Group_27\obj\Debug\Group_27.Add_Order.resources
+C:\Users\talshach\Desktop\שמירות אחרונות בהחלטטט\Group_27 (1)\Group_27\Group_27\obj\Debug\Group_27.Add_productionProcess.resources
+C:\Users\talshach\Desktop\שמירות אחרונות בהחלטטט\Group_27 (1)\Group_27\Group_27\obj\Debug\Group_27.AllCustomers.resources
+C:\Users\talshach\Desktop\שמירות אחרונות בהחלטטט\Group_27 (1)\Group_27\Group_27\obj\Debug\Group_27.AllEmployees.resources
+C:\Users\talshach\Desktop\שמירות אחרונות בהחלטטט\Group_27 (1)\Group_27\Group_27\obj\Debug\Group_27.AllOrders.resources
+C:\Users\talshach\Desktop\שמירות אחרונות בהחלטטט\Group_27 (1)\Group_27\Group_27\obj\Debug\Group_27.AllProducts.resources
+C:\Users\talshach\Desktop\שמירות אחרונות בהחלטטט\Group_27 (1)\Group_27\Group_27\obj\Debug\Group_27.AllSuppliers.resources
+C:\Users\talshach\Desktop\שמירות אחרונות בהחלטטט\Group_27 (1)\Group_27\Group_27\obj\Debug\Group_27.CreateOrderFromSupplier.resources
+C:\Users\talshach\Desktop\שמירות אחרונות בהחלטטט\Group_27 (1)\Group_27\Group_27\obj\Debug\Group_27.Crud_Customer.resources
+C:\Users\talshach\Desktop\שמירות אחרונות בהחלטטט\Group_27 (1)\Group_27\Group_27\obj\Debug\Group_27.Crud_Employee.resources
+C:\Users\talshach\Desktop\שמירות אחרונות בהחלטטט\Group_27 (1)\Group_27\Group_27\obj\Debug\Group_27.Crud_Product.resources
+C:\Users\talshach\Desktop\שמירות אחרונות בהחלטטט\Group_27 (1)\Group_27\Group_27\obj\Debug\Group_27.Crud_Supplier.resources
+C:\Users\talshach\Desktop\שמירות אחרונות בהחלטטט\Group_27 (1)\Group_27\Group_27\obj\Debug\Group_27.CustomerOrders.resources
+C:\Users\talshach\Desktop\שמירות אחרונות בהחלטטט\Group_27 (1)\Group_27\Group_27\obj\Debug\Group_27.HomePage_Customers.resources
+C:\Users\talshach\Desktop\שמירות אחרונות בהחלטטט\Group_27 (1)\Group_27\Group_27\obj\Debug\Group_27.HomePage_Employees.resources
+C:\Users\talshach\Desktop\שמירות אחרונות בהחלטטט\Group_27 (1)\Group_27\Group_27\obj\Debug\Group_27.Login.resources
+C:\Users\talshach\Desktop\שמירות אחרונות בהחלטטט\Group_27 (1)\Group_27\Group_27\obj\Debug\Group_27.MyOrders.resources
+C:\Users\talshach\Desktop\שמירות אחרונות בהחלטטט\Group_27 (1)\Group_27\Group_27\obj\Debug\Group_27.OrderManagment.resources
+C:\Users\talshach\Desktop\שמירות אחרונות בהחלטטט\Group_27 (1)\Group_27\Group_27\obj\Debug\Group_27.Order_Tracking.resources
+C:\Users\talshach\Desktop\שמירות אחרונות בהחלטטט\Group_27 (1)\Group_27\Group_27\obj\Debug\Group_27.Properties.Resources.resources
+C:\Users\talshach\Desktop\שמירות אחרונות בהחלטטט\Group_27 (1)\Group_27\Group_27\obj\Debug\Group_27.ReceivedFromSupplier.resources
+C:\Users\talshach\Desktop\שמירות אחרונות בהחלטטט\Group_27 (1)\Group_27\Group_27\obj\Debug\Group_27.setTimeForWork.resources
+C:\Users\talshach\Desktop\שמירות אחרונות בהחלטטט\Group_27 (1)\Group_27\Group_27\obj\Debug\Group_27.ShowSupplier.resources
+C:\Users\talshach\Desktop\שמירות אחרונות בהחלטטט\Group_27 (1)\Group_27\Group_27\obj\Debug\Group_27.Show_Customer.resources
+C:\Users\talshach\Desktop\שמירות אחרונות בהחלטטט\Group_27 (1)\Group_27\Group_27\obj\Debug\Group_27.Show_Employee.resources
+C:\Users\talshach\Desktop\שמירות אחרונות בהחלטטט\Group_27 (1)\Group_27\Group_27\obj\Debug\Group_27.Show_Order.resources
+C:\Users\talshach\Desktop\שמירות אחרונות בהחלטטט\Group_27 (1)\Group_27\Group_27\obj\Debug\Group_27.Show_Product.resources
+C:\Users\talshach\Desktop\שמירות אחרונות בהחלטטט\Group_27 (1)\Group_27\Group_27\obj\Debug\Group_27.SortProdutionProcess.resources
+C:\Users\talshach\Desktop\שמירות אחרונות בהחלטטט\Group_27 (1)\Group_27\Group_27\obj\Debug\Group_27.StandardTime.resources
+C:\Users\talshach\Desktop\שמירות אחרונות בהחלטטט\Group_27 (1)\Group_27\Group_27\obj\Debug\Group_27.csproj.GenerateResource.Cache
+C:\Users\talshach\Desktop\שמירות אחרונות בהחלטטט\Group_27 (1)\Group_27\Group_27\obj\Debug\Group_27.csproj.CoreCompileInputs.cache
+C:\Users\talshach\Desktop\שמירות אחרונות בהחלטטט\Group_27 (1)\Group_27\Group_27\obj\Debug\Group_27.exe
+C:\Users\talshach\Desktop\שמירות אחרונות בהחלטטט\Group_27 (1)\Group_27\Group_27\obj\Debug\Group_27.pdb
+C:\Users\yarinmor\Desktop\שמירות\11\Group_27 (4)\Group_27\Group_27\bin\Debug\Group_27.exe.config
+C:\Users\yarinmor\Desktop\שמירות\11\Group_27 (4)\Group_27\Group_27\bin\Debug\Group_27.exe
+C:\Users\yarinmor\Desktop\שמירות\11\Group_27 (4)\Group_27\Group_27\bin\Debug\Group_27.pdb
+C:\Users\yarinmor\Desktop\שמירות\11\Group_27 (4)\Group_27\Group_27\obj\Debug\Group_27.csprojResolveAssemblyReference.cache
+C:\Users\yarinmor\Desktop\שמירות\11\Group_27 (4)\Group_27\Group_27\obj\Debug\Group_27.AddEmployee.resources
+C:\Users\yarinmor\Desktop\שמירות\11\Group_27 (4)\Group_27\Group_27\obj\Debug\Group_27.AddProduct.resources
+C:\Users\yarinmor\Desktop\שמירות\11\Group_27 (4)\Group_27\Group_27\obj\Debug\Group_27.AddSupplier.resources
+C:\Users\yarinmor\Desktop\שמירות\11\Group_27 (4)\Group_27\Group_27\obj\Debug\Group_27.Add_Customer.resources
+C:\Users\yarinmor\Desktop\שמירות\11\Group_27 (4)\Group_27\Group_27\obj\Debug\Group_27.Add_Order.resources
+C:\Users\yarinmor\Desktop\שמירות\11\Group_27 (4)\Group_27\Group_27\obj\Debug\Group_27.Add_productionProcess.resources
+C:\Users\yarinmor\Desktop\שמירות\11\Group_27 (4)\Group_27\Group_27\obj\Debug\Group_27.AllCustomers.resources
+C:\Users\yarinmor\Desktop\שמירות\11\Group_27 (4)\Group_27\Group_27\obj\Debug\Group_27.AllEmployees.resources
+C:\Users\yarinmor\Desktop\שמירות\11\Group_27 (4)\Group_27\Group_27\obj\Debug\Group_27.AllOrders.resources
+C:\Users\yarinmor\Desktop\שמירות\11\Group_27 (4)\Group_27\Group_27\obj\Debug\Group_27.AllProducts.resources
+C:\Users\yarinmor\Desktop\שמירות\11\Group_27 (4)\Group_27\Group_27\obj\Debug\Group_27.AllSuppliers.resources
+C:\Users\yarinmor\Desktop\שמירות\11\Group_27 (4)\Group_27\Group_27\obj\Debug\Group_27.CreateOrderFromSupplier.resources
+C:\Users\yarinmor\Desktop\שמירות\11\Group_27 (4)\Group_27\Group_27\obj\Debug\Group_27.Crud_Customer.resources
+C:\Users\yarinmor\Desktop\שמירות\11\Group_27 (4)\Group_27\Group_27\obj\Debug\Group_27.Crud_Employee.resources
+C:\Users\yarinmor\Desktop\שמירות\11\Group_27 (4)\Group_27\Group_27\obj\Debug\Group_27.Crud_Product.resources
+C:\Users\yarinmor\Desktop\שמירות\11\Group_27 (4)\Group_27\Group_27\obj\Debug\Group_27.Crud_Supplier.resources
+C:\Users\yarinmor\Desktop\שמירות\11\Group_27 (4)\Group_27\Group_27\obj\Debug\Group_27.HomePage_Customers.resources
+C:\Users\yarinmor\Desktop\שמירות\11\Group_27 (4)\Group_27\Group_27\obj\Debug\Group_27.HomePage_Employees.resources
+C:\Users\yarinmor\Desktop\שמירות\11\Group_27 (4)\Group_27\Group_27\obj\Debug\Group_27.Login.resources
+C:\Users\yarinmor\Desktop\שמירות\11\Group_27 (4)\Group_27\Group_27\obj\Debug\Group_27.MyOrders.resources
+C:\Users\yarinmor\Desktop\שמירות\11\Group_27 (4)\Group_27\Group_27\obj\Debug\Group_27.OrderManagment.resources
+C:\Users\yarinmor\Desktop\שמירות\11\Group_27 (4)\Group_27\Group_27\obj\Debug\Group_27.Order_Tracking.resources
+C:\Users\yarinmor\Desktop\שמירות\11\Group_27 (4)\Group_27\Group_27\obj\Debug\Group_27.Properties.Resources.resources
+C:\Users\yarinmor\Desktop\שמירות\11\Group_27 (4)\Group_27\Group_27\obj\Debug\Group_27.ReceivedFromSupplier.resources
+C:\Users\yarinmor\Desktop\שמירות\11\Group_27 (4)\Group_27\Group_27\obj\Debug\Group_27.setTimeForWork.resources
+C:\Users\yarinmor\Desktop\שמירות\11\Group_27 (4)\Group_27\Group_27\obj\Debug\Group_27.ShowSupplier.resources
+C:\Users\yarinmor\Desktop\שמירות\11\Group_27 (4)\Group_27\Group_27\obj\Debug\Group_27.Show_Customer.resources
+C:\Users\yarinmor\Desktop\שמירות\11\Group_27 (4)\Group_27\Group_27\obj\Debug\Group_27.Show_Employee.resources
+C:\Users\yarinmor\Desktop\שמירות\11\Group_27 (4)\Group_27\Group_27\obj\Debug\Group_27.Show_Order.resources
+C:\Users\yarinmor\Desktop\שמירות\11\Group_27 (4)\Group_27\Group_27\obj\Debug\Group_27.Show_Product.resources
+C:\Users\yarinmor\Desktop\שמירות\11\Group_27 (4)\Group_27\Group_27\obj\Debug\Group_27.SortProdutionProcess.resources
+C:\Users\yarinmor\Desktop\שמירות\11\Group_27 (4)\Group_27\Group_27\obj\Debug\Group_27.StandardTime.resources
+C:\Users\yarinmor\Desktop\שמירות\11\Group_27 (4)\Group_27\Group_27\obj\Debug\Group_27.csproj.GenerateResource.Cache
+C:\Users\yarinmor\Desktop\שמירות\11\Group_27 (4)\Group_27\Group_27\obj\Debug\Group_27.csproj.CoreCompileInputs.cache
+C:\Users\yarinmor\Desktop\שמירות\11\Group_27 (4)\Group_27\Group_27\obj\Debug\Group_27.exe
+C:\Users\yarinmor\Desktop\שמירות\11\Group_27 (4)\Group_27\Group_27\obj\Debug\Group_27.pdb
+C:\Users\yarinmor\Desktop\שמירות\11\Group_27 (4)\Group_27\Group_27\obj\Debug\Group_27.HomePageCustomerService.resources
+C:\Users\yarinmor\Desktop\שמירות\11\Group_27 (4)\Group_27\Group_27\obj\Debug\Group_27.HomePageHR.resources
+C:\Users\yarinmor\Desktop\שמירות\11\Group_27 (4)\Group_27\Group_27\obj\Debug\Group_27.HomePageLogistic.resources
+C:\Users\yarinmor\Desktop\שמירות\11\Group_27 (4)\Group_27\Group_27\obj\Debug\Group_27.HomePageManagers.resources
+C:\Users\yarinmor\Desktop\שמירות\11\Group_27 (4)\Group_27\Group_27\obj\Debug\Group_27.HomePageProduction.resources
+C:\Users\yarinmor\Desktop\שמירות\11\Group_27 (4)\Group_27\Group_27\obj\Debug\Group_27.HomePageSales.resources
+C:\Users\yarinmor\Desktop\שמירות\11\Group_27 (4)\Group_27\Group_27\obj\Debug\Group_27.HomePageStoreKeeper.resources
+C:\Users\yarinmor\Desktop\שמירות\11\Group_27 (4)\Group_27\Group_27\obj\Debug\Group_27.ProductionProcessManagment.resources
+C:\Users\yarinmor\OneDrive - post.bgu.ac.il\Desktop\שמירות\טלטול16\Group_27\Group_27\bin\Debug\Group_27.exe.config
+C:\Users\yarinmor\OneDrive - post.bgu.ac.il\Desktop\שמירות\טלטול16\Group_27\Group_27\bin\Debug\Group_27.exe
+C:\Users\yarinmor\OneDrive - post.bgu.ac.il\Desktop\שמירות\טלטול16\Group_27\Group_27\bin\Debug\Group_27.pdb
+C:\Users\yarinmor\OneDrive - post.bgu.ac.il\Desktop\שמירות\טלטול16\Group_27\Group_27\obj\Debug\Group_27.csprojResolveAssemblyReference.cache
+C:\Users\yarinmor\OneDrive - post.bgu.ac.il\Desktop\שמירות\טלטול16\Group_27\Group_27\obj\Debug\Group_27.AddEmployee.resources
+C:\Users\yarinmor\OneDrive - post.bgu.ac.il\Desktop\שמירות\טלטול16\Group_27\Group_27\obj\Debug\Group_27.AddProduct.resources
+C:\Users\yarinmor\OneDrive - post.bgu.ac.il\Desktop\שמירות\טלטול16\Group_27\Group_27\obj\Debug\Group_27.AddSupplier.resources
+C:\Users\yarinmor\OneDrive - post.bgu.ac.il\Desktop\שמירות\טלטול16\Group_27\Group_27\obj\Debug\Group_27.Add_Customer.resources
+C:\Users\yarinmor\OneDrive - post.bgu.ac.il\Desktop\שמירות\טלטול16\Group_27\Group_27\obj\Debug\Group_27.Add_Order.resources
+C:\Users\yarinmor\OneDrive - post.bgu.ac.il\Desktop\שמירות\טלטול16\Group_27\Group_27\obj\Debug\Group_27.Add_productionProcess.resources
+C:\Users\yarinmor\OneDrive - post.bgu.ac.il\Desktop\שמירות\טלטול16\Group_27\Group_27\obj\Debug\Group_27.AllCustomers.resources
+C:\Users\yarinmor\OneDrive - post.bgu.ac.il\Desktop\שמירות\טלטול16\Group_27\Group_27\obj\Debug\Group_27.AllEmployees.resources
+C:\Users\yarinmor\OneDrive - post.bgu.ac.il\Desktop\שמירות\טלטול16\Group_27\Group_27\obj\Debug\Group_27.AllOrders.resources
+C:\Users\yarinmor\OneDrive - post.bgu.ac.il\Desktop\שמירות\טלטול16\Group_27\Group_27\obj\Debug\Group_27.AllProducts.resources
+C:\Users\yarinmor\OneDrive - post.bgu.ac.il\Desktop\שמירות\טלטול16\Group_27\Group_27\obj\Debug\Group_27.AllSuppliers.resources
+C:\Users\yarinmor\OneDrive - post.bgu.ac.il\Desktop\שמירות\טלטול16\Group_27\Group_27\obj\Debug\Group_27.CreateOrderFromSupplier.resources
+C:\Users\yarinmor\OneDrive - post.bgu.ac.il\Desktop\שמירות\טלטול16\Group_27\Group_27\obj\Debug\Group_27.Crud_Customer.resources
+C:\Users\yarinmor\OneDrive - post.bgu.ac.il\Desktop\שמירות\טלטול16\Group_27\Group_27\obj\Debug\Group_27.Crud_Employee.resources
+C:\Users\yarinmor\OneDrive - post.bgu.ac.il\Desktop\שמירות\טלטול16\Group_27\Group_27\obj\Debug\Group_27.Crud_Product.resources
+C:\Users\yarinmor\OneDrive - post.bgu.ac.il\Desktop\שמירות\טלטול16\Group_27\Group_27\obj\Debug\Group_27.Crud_Supplier.resources
+C:\Users\yarinmor\OneDrive - post.bgu.ac.il\Desktop\שמירות\טלטול16\Group_27\Group_27\obj\Debug\Group_27.HomePageCustomerService.resources
+C:\Users\yarinmor\OneDrive - post.bgu.ac.il\Desktop\שמירות\טלטול16\Group_27\Group_27\obj\Debug\Group_27.HomePageHR.resources
+C:\Users\yarinmor\OneDrive - post.bgu.ac.il\Desktop\שמירות\טלטול16\Group_27\Group_27\obj\Debug\Group_27.HomePageLogistic.resources
+C:\Users\yarinmor\OneDrive - post.bgu.ac.il\Desktop\שמירות\טלטול16\Group_27\Group_27\obj\Debug\Group_27.HomePageManagers.resources
+C:\Users\yarinmor\OneDrive - post.bgu.ac.il\Desktop\שמירות\טלטול16\Group_27\Group_27\obj\Debug\Group_27.HomePageProduction.resources
+C:\Users\yarinmor\OneDrive - post.bgu.ac.il\Desktop\שמירות\טלטול16\Group_27\Group_27\obj\Debug\Group_27.HomePageSales.resources
+C:\Users\yarinmor\OneDrive - post.bgu.ac.il\Desktop\שמירות\טלטול16\Group_27\Group_27\obj\Debug\Group_27.HomePageStoreKeeper.resources
+C:\Users\yarinmor\OneDrive - post.bgu.ac.il\Desktop\שמירות\טלטול16\Group_27\Group_27\obj\Debug\Group_27.HomePage_Customers.resources
+C:\Users\yarinmor\OneDrive - post.bgu.ac.il\Desktop\שמירות\טלטול16\Group_27\Group_27\obj\Debug\Group_27.Login.resources
+C:\Users\yarinmor\OneDrive - post.bgu.ac.il\Desktop\שמירות\טלטול16\Group_27\Group_27\obj\Debug\Group_27.MyOrders.resources
+C:\Users\yarinmor\OneDrive - post.bgu.ac.il\Desktop\שמירות\טלטול16\Group_27\Group_27\obj\Debug\Group_27.OrderManagment.resources
+C:\Users\yarinmor\OneDrive - post.bgu.ac.il\Desktop\שמירות\טלטול16\Group_27\Group_27\obj\Debug\Group_27.Order_Tracking.resources
+C:\Users\yarinmor\OneDrive - post.bgu.ac.il\Desktop\שמירות\טלטול16\Group_27\Group_27\obj\Debug\Group_27.ProductionProcessManagment.resources
+C:\Users\yarinmor\OneDrive - post.bgu.ac.il\Desktop\שמירות\טלטול16\Group_27\Group_27\obj\Debug\Group_27.Properties.Resources.resources
+C:\Users\yarinmor\OneDrive - post.bgu.ac.il\Desktop\שמירות\טלטול16\Group_27\Group_27\obj\Debug\Group_27.ReceivedFromSupplier.resources
+C:\Users\yarinmor\OneDrive - post.bgu.ac.il\Desktop\שמירות\טלטול16\Group_27\Group_27\obj\Debug\Group_27.setTimeForWork.resources
+C:\Users\yarinmor\OneDrive - post.bgu.ac.il\Desktop\שמירות\טלטול16\Group_27\Group_27\obj\Debug\Group_27.ShowSupplier.resources
+C:\Users\yarinmor\OneDrive - post.bgu.ac.il\Desktop\שמירות\טלטול16\Group_27\Group_27\obj\Debug\Group_27.Show_Customer.resources
+C:\Users\yarinmor\OneDrive - post.bgu.ac.il\Desktop\שמירות\טלטול16\Group_27\Group_27\obj\Debug\Group_27.Show_Employee.resources
+C:\Users\yarinmor\OneDrive - post.bgu.ac.il\Desktop\שמירות\טלטול16\Group_27\Group_27\obj\Debug\Group_27.Show_Order.resources
+C:\Users\yarinmor\OneDrive - post.bgu.ac.il\Desktop\שמירות\טלטול16\Group_27\Group_27\obj\Debug\Group_27.Show_Product.resources
+C:\Users\yarinmor\OneDrive - post.bgu.ac.il\Desktop\שמירות\טלטול16\Group_27\Group_27\obj\Debug\Group_27.SortProdutionProcess.resources
+C:\Users\yarinmor\OneDrive - post.bgu.ac.il\Desktop\שמירות\טלטול16\Group_27\Group_27\obj\Debug\Group_27.StandardTime.resources
+C:\Users\yarinmor\OneDrive - post.bgu.ac.il\Desktop\שמירות\טלטול16\Group_27\Group_27\obj\Debug\Group_27.csproj.GenerateResource.Cache
+C:\Users\yarinmor\OneDrive - post.bgu.ac.il\Desktop\שמירות\טלטול16\Group_27\Group_27\obj\Debug\Group_27.csproj.CoreCompileInputs.cache
+C:\Users\yarinmor\OneDrive - post.bgu.ac.il\Desktop\שמירות\טלטול16\Group_27\Group_27\obj\Debug\Group_27.exe
+C:\Users\yarinmor\OneDrive - post.bgu.ac.il\Desktop\שמירות\טלטול16\Group_27\Group_27\obj\Debug\Group_27.pdb
+C:\Users\ygazi\Desktop\יאיא\בן גוריון\שנה ג'\ניתוץ\פרוייקט\הפרוייקט הסופי\Group_27\Group_27\Group_27\obj\Debug\Group_27.exe
+C:\Users\ygazi\Desktop\יאיא\בן גוריון\שנה ג'\ניתוץ\פרוייקט\הפרוייקט הסופי\Group_27\Group_27\Group_27\obj\Debug\Group_27.pdb
